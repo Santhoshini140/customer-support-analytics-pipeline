@@ -5,3 +5,6 @@ __pycache__/
 credentials/
 logs/
 .airflow/
+# Service account credentials
+credentials/
+*.json
