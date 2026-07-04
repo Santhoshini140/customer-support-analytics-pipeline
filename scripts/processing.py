@@ -145,6 +145,8 @@ class DataQualityEngine:
 
     def build_warning_map(self):
 
+        print("\nBuilding warning map...")
+
         self.warning_map = {}
 
         for result in self.validation_results:

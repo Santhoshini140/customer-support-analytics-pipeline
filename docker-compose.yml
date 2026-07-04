@@ -21,6 +21,7 @@ x-airflow-common:
     - ./plugins:/opt/airflow/plugins
     - ./data:/opt/airflow/data
     - ./credentials:/opt/airflow/credentials
+    - ./:/opt/airflow/project
 
   depends_on:
     - postgres

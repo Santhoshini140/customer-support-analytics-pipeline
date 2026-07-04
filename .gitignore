@@ -8,3 +8,37 @@ logs/
 # Service account credentials
 credentials/
 *.json
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Airflow Logs
+airflow-webserver.pid
+
+# Generated Reports
+data/processed/*
+data/rejected/*
+data/reports/*
+
+# Keep folders
+!data/processed/.gitkeep
+!data/rejected/.gitkeep
+!data/reports/.gitkeep
+
+# Credentials
+credentials/*.json
+
+# dbt
+dbt/target/
+dbt/logs/
+
+# OS
+.DS_Store
+Thumbs.db
