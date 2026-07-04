@@ -1,0 +1,1001 @@
+ticket_id,customer_name,customer_email,issue_type,priority,status,agent_name,created_date,resolved_date,satisfaction_score
+1,Monique Simpson,tinadawson@example.net,Product Defect,Critical,In Progress,Alice,2026-04-19 04:04:21,,
+2,Jerry Gutierrez,angelmorrison@example.net,Order Delay,High,Resolved,David,2026-06-12 22:10:31,2026-06-20 22:10:31,4.0
+3,Stacey Parker,zacharywilliams@example.net,Login Problem,Medium,In Progress,Bob,2026-05-16 08:53:55,,
+4,Miranda Walker,wilkinsmarc@example.com,Refund Request,Low,In Progress,David,2026-05-28 07:15:30,,
+5,Ashley Barber,emitchell@example.org,Subscription Cancellation,Critical,In Progress,Emma,2026-06-12 07:44:46,,
+6,Mariah Fox,john96@example.net,Product Defect,Low,Open,James,2026-06-24 06:03:49,,
+7,Laurie Page,parkershelia@example.org,Refund Request,Medium,Resolved,David,2026-05-27 09:15:22,2026-05-28 09:15:22,4.0
+8,Brenda Robinson,adriennepierce@example.net,Login Problem,Low,Open,James,2026-05-31 21:35:02,,
+9,Peter Potter,hamptonphilip@example.net,Payment Issue,High,Closed,Bob,2026-05-07 21:42:19,2026-05-13 21:42:19,3.0
+10,Dylan Johnson,charlesjohnson@example.org,Order Delay,Low,In Progress,Sophia,2026-04-14 11:06:07,,
+11,Nicole Johnson,ipatterson@example.org,Product Defect,Medium,Closed,Charlie,2026-05-30 23:04:42,2026-06-09 23:04:42,4.0
+12,Rebekah Smith,ericriggs@example.com,Login Problem,High,Closed,Emma,2026-06-05 14:20:07,2026-06-14 14:20:07,3.0
+13,Lucas Smith,qstone@example.com,Refund Request,Low,Closed,Charlie,2026-06-04 17:53:23,2026-06-10 17:53:23,5.0
+14,Jim Smith,bwallace@example.org,Payment Issue,High,Resolved,Emma,2026-06-19 21:07:14,2026-06-21 21:07:14,3.0
+15,Anita White,courtneycunningham@example.com,Payment Issue,Critical,Open,Sophia,2026-04-08 06:03:18,,
+16,Heather Ferguson,gilbertmelanie@example.net,Subscription Cancellation,Medium,Resolved,Bob,2026-05-15 04:26:26,2026-05-20 04:26:26,1.0
+17,Samuel Russell,brendanbanks@example.net,Product Defect,Low,Closed,David,2026-06-25 01:25:04,2026-07-01 01:25:04,5.0
+18,John Quinn,danielstone@example.org,Login Problem,Medium,In Progress,Bob,2026-05-29 16:45:08,,
+19,Zachary Thomas,joanna34@example.net,Shipping Issue,High,Closed,Sophia,2026-05-14 02:20:59,2026-05-20 02:20:59,5.0
+20,Robin Jimenez,hwhite@example.org,Order Delay,Critical,In Progress,Emma,2026-04-17 22:29:40,,
+21,Kim Mclean,carriehoward@example.org,Order Delay,Medium,Closed,James,2026-06-28 15:28:13,2026-07-06 15:28:13,3.0
+22,Leon Collins,laura58@example.com,Product Defect,High,In Progress,Alice,2026-04-12 14:22:44,,
+23,John Beard,qbennett@example.net,Refund Request,Medium,Open,David,2026-06-24 10:20:00,,
+24,Gregory Frank,csmith@example.org,Product Defect,Low,Resolved,Alice,2026-04-28 12:53:41,2026-05-06 12:53:41,1.0
+25,Kristina Williams,ihunt@example.org,Account Locked,Medium,In Progress,Sophia,2026-05-31 11:57:09,,
+26,Joshua Hernandez,smitherica@example.com,Subscription Cancellation,High,In Progress,Charlie,2026-06-17 15:58:35,,
+27,Brandon Nolan,rodneyoneal@example.com,Product Defect,Low,Closed,Michael,2026-05-26 02:08:44,2026-06-04 02:08:44,4.0
+28,Theresa Lambert,tnelson@example.com,Refund Request,Low,Resolved,Alice,2026-06-06 18:16:16,2026-06-14 18:16:16,3.0
+29,Sonya Rice,michele57@example.org,Login Problem,Medium,Open,James,2026-06-23 13:03:57,,
+30,Tamara Moody MD,johnwoodward@example.com,Product Defect,Medium,Open,Bob,2026-05-28 10:28:49,,
+31,Lorraine Nixon,mhensley@example.com,Login Problem,Low,Open,David,2026-05-06 20:36:45,,
+32,Stephen Davis,sarah78@example.net,Shipping Issue,Critical,Resolved,Michael,2026-05-13 04:06:39,2026-05-18 04:06:39,5.0
+33,Keith Torres,robert12@example.org,Login Problem,Low,Closed,Michael,2026-05-15 04:35:02,2026-05-19 04:35:02,3.0
+34,Arthur Franklin,moniquehardy@example.org,Order Delay,Critical,Closed,Emma,2026-05-02 07:46:29,2026-05-07 07:46:29,1.0
+35,Anthony Cain,morganryan@example.org,Order Delay,Medium,In Progress,James,2026-06-03 03:14:18,,
+36,Victoria Crawford,gail22@example.org,Payment Issue,Medium,Open,Sophia,2026-06-02 22:15:23,,
+37,Holly Cruz,brandy68@example.com,Refund Request,Medium,Open,Michael,2026-04-18 04:02:25,,
+38,Dana Cooper,mbender@example.net,Order Delay,High,Resolved,Bob,2026-06-26 02:03:02,2026-06-30 02:03:02,1.0
+39,Mikayla Clark,amoran@example.com,Order Delay,Low,Resolved,Charlie,2026-07-01 22:19:16,2026-07-06 22:19:16,1.0
+40,Kenneth Montgomery,ralexander@example.net,Login Problem,Critical,Resolved,Sophia,2026-05-25 09:18:49,2026-05-30 09:18:49,5.0
+41,Jesse Miller,gallowaymichael@example.net,Account Locked,High,Closed,Charlie,2026-05-16 13:56:19,2026-05-22 13:56:19,4.0
+42,Haley White,april17@example.com,Account Locked,Low,Closed,Alice,2026-05-25 05:55:09,2026-06-03 05:55:09,4.0
+43,Daniel Burke,chadarmstrong@example.org,Subscription Cancellation,Critical,Open,Alice,2026-05-06 03:11:39,,
+44,Jean Green,glopez@example.com,Subscription Cancellation,Medium,Closed,Bob,2026-06-24 23:34:42,2026-07-03 23:34:42,1.0
+45,Joanne Mcknight,hudsonalexandra@example.net,Subscription Cancellation,High,Resolved,James,2026-05-16 12:07:03,2026-05-22 12:07:03,4.0
+46,Anthony Hernandez,dawnrodriguez@example.com,Product Defect,Medium,Closed,Bob,2026-06-02 05:45:28,2026-06-03 05:45:28,3.0
+47,Monica Chan,millerjoan@example.org,Refund Request,Critical,Open,Michael,2026-05-31 11:36:01,,
+48,Scott Patel,adamgibbs@example.org,Subscription Cancellation,Critical,Resolved,James,2026-04-11 15:07:10,2026-04-18 15:07:10,4.0
+49,Vanessa Bowers,reedkimberly@example.com,Product Defect,Low,Open,Charlie,2026-05-25 09:50:13,,
+50,Brian Baker,vargasshirley@example.net,Shipping Issue,Critical,Resolved,Emma,2026-05-25 16:17:25,2026-05-31 16:17:25,2.0
+51,John Reynolds,sblack@example.net,Payment Issue,Medium,Closed,Emma,2026-04-29 14:44:14,2026-05-05 14:44:14,5.0
+52,Shannon Smith,nnguyen@example.net,Payment Issue,Low,In Progress,Bob,2026-04-20 08:21:57,,
+53,Andrew Wilson,ocline@example.com,Refund Request,Medium,Resolved,Bob,2026-06-15 02:42:07,2026-06-24 02:42:07,1.0
+54,Tiffany Johnson,nicole50@example.org,Refund Request,High,In Progress,Bob,2026-05-16 04:12:54,,
+55,Christian Hill,mariawood@example.net,Payment Issue,Low,Open,Emma,2026-06-10 09:43:30,,
+56,Daniel Gardner,angelahernandez@example.com,Login Problem,Critical,Closed,David,2026-04-10 14:22:38,2026-04-12 14:22:38,1.0
+57,Sarah Bean,jeffreygriffin@example.com,Refund Request,Medium,In Progress,David,2026-06-30 01:27:08,,
+58,Melissa Powell,riceveronica@example.org,Shipping Issue,Low,In Progress,David,2026-05-06 12:02:42,,
+59,Miss Kelsey Medina,smithjessica@example.com,Payment Issue,Critical,In Progress,Emma,2026-05-04 06:51:28,,
+60,Crystal Hutchinson,dpalmer@example.net,Payment Issue,Critical,Closed,Alice,2026-04-09 12:18:12,2026-04-14 12:18:12,5.0
+61,Sue Sharp,bernardsusan@example.net,Payment Issue,Low,Resolved,David,2026-06-02 14:47:00,2026-06-08 14:47:00,3.0
+62,Christina Alvarez,zking@example.org,Account Locked,Critical,Resolved,Charlie,2026-06-27 14:02:01,2026-06-28 14:02:01,1.0
+63,John Hall,smithstephanie@example.net,Account Locked,Medium,In Progress,Sophia,2026-06-22 04:52:04,,
+64,Charles Howard,baileydaniel@example.net,Product Defect,Critical,Open,Alice,2026-04-10 10:37:16,,
+65,Norma Hodges,bhall@example.org,Order Delay,Medium,In Progress,Sophia,2026-05-22 05:22:49,,
+66,Eric Cohen,evanmartin@example.com,Refund Request,Low,Closed,Alice,2026-06-08 12:20:29,2026-06-09 12:20:29,2.0
+67,Lindsey Rubio,martinfrancisco@example.org,Product Defect,Critical,Closed,David,2026-05-26 10:55:45,2026-05-29 10:55:45,4.0
+68,Tyler Boyd,ffrederick@example.org,Product Defect,Medium,In Progress,Michael,2026-06-16 05:53:39,,
+69,Robin Schaefer,bavila@example.com,Shipping Issue,Critical,Open,David,2026-06-12 14:34:51,,
+70,Peggy Meyer,russell53@example.net,Payment Issue,High,Open,Michael,2026-05-28 02:56:55,,
+71,Teresa Hernandez,tiffanylewis@example.com,Refund Request,High,In Progress,Emma,2026-06-10 18:37:10,,
+72,Barbara Henderson,edward32@example.net,Payment Issue,Low,Resolved,Michael,2026-04-06 12:39:11,2026-04-10 12:39:11,4.0
+73,Sarah Kelley,jennifer63@example.com,Account Locked,Medium,Closed,Emma,2026-04-17 13:51:01,2026-04-27 13:51:01,5.0
+74,Melvin Patel,jessica07@example.org,Payment Issue,Low,Resolved,Sophia,2026-05-06 16:26:15,2026-05-10 16:26:15,4.0
+75,Justin Davis,rogersteresa@example.com,Subscription Cancellation,Critical,Closed,David,2026-04-09 09:02:25,2026-04-13 09:02:25,5.0
+76,Robin Gutierrez,fergusonmegan@example.net,Refund Request,Critical,Resolved,Michael,2026-04-14 18:39:50,2026-04-17 18:39:50,2.0
+77,Victor Coleman,blake71@example.com,Subscription Cancellation,High,Open,Bob,2026-06-28 22:46:42,,
+78,Lori Klein,gatesrebecca@example.com,Product Defect,Low,Open,Charlie,2026-04-12 06:42:48,,
+79,Sarah Murphy,kimberly63@example.org,Order Delay,Low,Closed,James,2026-06-16 07:00:23,2026-06-23 07:00:23,3.0
+80,Tyler Gonzalez,ruizjessica@example.org,Order Delay,Critical,Open,Charlie,2026-07-04 07:25:40,,
+81,Katie Casey,hnunez@example.org,Subscription Cancellation,Medium,Resolved,Bob,2026-05-05 04:57:07,2026-05-10 04:57:07,2.0
+82,Sarah Baker,oking@example.net,Refund Request,Medium,Open,Alice,2026-04-16 15:53:12,,
+83,Vincent Scott,cmorris@example.org,Login Problem,High,In Progress,Emma,2026-06-12 17:08:49,,
+84,Courtney Garcia,melody91@example.com,Order Delay,High,Closed,Emma,2026-06-02 12:27:05,2026-06-11 12:27:05,5.0
+85,Christopher Wyatt,kim43@example.com,Subscription Cancellation,Critical,In Progress,Charlie,2026-06-11 02:09:38,,
+86,David Evans,maryduffy@example.net,Product Defect,Critical,Closed,Bob,2026-06-12 12:14:26,2026-06-18 12:14:26,5.0
+87,Jamie Collier,richardsonjoshua@example.org,Login Problem,Critical,Closed,James,2026-06-09 19:52:07,2026-06-12 19:52:07,2.0
+88,Maria Turner,foxjeffrey@example.com,Payment Issue,High,Open,Alice,2026-06-13 19:02:04,,
+89,Michelle Sims,whiteshannon@example.net,Refund Request,Low,Resolved,Sophia,2026-05-02 11:39:04,2026-05-05 11:39:04,4.0
+90,Henry Woodard,michelle43@example.net,Shipping Issue,Critical,Open,Emma,2026-05-24 15:27:57,,
+91,Kimberly Sullivan,donna77@example.net,Payment Issue,Critical,Resolved,James,2026-06-29 13:25:10,2026-07-07 13:25:10,4.0
+92,Scott Perez,randy66@example.net,Shipping Issue,Critical,In Progress,David,2026-05-09 06:39:09,,
+93,Allen James,rsnyder@example.net,Shipping Issue,Critical,Closed,Alice,2026-04-22 14:25:32,2026-05-02 14:25:32,2.0
+94,Jessica Walker,elizabeth70@example.org,Product Defect,Medium,In Progress,Michael,2026-04-21 08:44:35,,
+95,Elizabeth Smith,jeffrey53@example.com,Product Defect,Critical,Open,Sophia,2026-06-17 17:47:10,,
+96,Alisha Love,smithjamie@example.org,Account Locked,High,Open,Emma,2026-06-16 18:52:31,,
+97,Kathryn Rodriguez,kellyfisher@example.net,Refund Request,Low,In Progress,Bob,2026-05-20 19:54:55,,
+98,Shawn Baxter,vbowers@example.net,Subscription Cancellation,High,Resolved,James,2026-05-14 04:09:22,2026-05-24 04:09:22,4.0
+99,Michael Schultz,joellane@example.com,Order Delay,Low,Resolved,Sophia,2026-06-19 17:01:20,2026-06-25 17:01:20,1.0
+100,Stephanie Lewis,hconrad@example.net,Order Delay,Critical,Closed,James,2026-06-11 23:48:47,2026-06-19 23:48:47,3.0
+101,Julie Bartlett,sdyer@example.com,Subscription Cancellation,Critical,Resolved,David,2026-05-31 15:13:34,2026-06-09 15:13:34,1.0
+102,Richard Hendrix,carmstrong@example.com,Product Defect,Low,Closed,David,2026-05-28 20:51:46,2026-05-30 20:51:46,2.0
+103,Christine Schroeder,kennethtaylor@example.net,Refund Request,High,In Progress,Sophia,2026-04-29 10:55:02,,
+104,Kathy Lucas,phayes@example.net,Account Locked,High,Resolved,Sophia,2026-05-02 01:06:52,2026-05-04 01:06:52,1.0
+105,Michael Woods,sbuckley@example.com,Payment Issue,Medium,Closed,Sophia,2026-06-10 08:49:17,2026-06-15 08:49:17,1.0
+106,Kelly Higgins,jennifercisneros@example.net,Payment Issue,High,Closed,Sophia,2026-05-05 15:06:12,2026-05-08 15:06:12,3.0
+107,Kara Barron,austingalloway@example.com,Login Problem,Medium,Closed,Charlie,2026-05-04 09:56:58,2026-05-11 09:56:58,5.0
+108,Ian Bird,christopher20@example.org,Account Locked,Medium,In Progress,David,2026-05-12 14:16:35,,
+109,Gerald Conway,michelle92@example.org,Subscription Cancellation,High,Closed,David,2026-04-07 21:02:41,2026-04-12 21:02:41,4.0
+110,Veronica Griffin,rmunoz@example.net,Product Defect,Medium,In Progress,Sophia,2026-04-11 14:09:29,,
+111,Stacy Smith,shafferjerry@example.org,Shipping Issue,High,Open,James,2026-04-26 23:06:39,,
+112,Anthony Humphrey,richardmelton@example.com,Subscription Cancellation,High,Open,David,2026-06-06 15:18:12,,
+113,Carla Trujillo,ccole@example.com,Payment Issue,High,Resolved,Michael,2026-06-02 13:04:39,2026-06-11 13:04:39,3.0
+114,Thomas Rosales,wilsonjames@example.net,Shipping Issue,Medium,Open,David,2026-06-04 08:23:19,,
+115,Ryan Levine,jimenezpaul@example.net,Shipping Issue,High,Open,Michael,2026-04-07 00:18:59,,
+116,Valerie Stone,mariamack@example.com,Login Problem,Medium,Closed,David,2026-06-21 17:31:59,2026-06-24 17:31:59,2.0
+117,Omar Lawson,julie26@example.net,Product Defect,Low,Closed,Emma,2026-04-19 02:32:31,2026-04-21 02:32:31,2.0
+118,Hannah Davis,john87@example.com,Subscription Cancellation,High,In Progress,James,2026-06-21 07:27:38,,
+119,Taylor Walker,robertbowers@example.com,Order Delay,Low,In Progress,Alice,2026-04-29 20:57:41,,
+120,Ashley Kramer,crawfordvernon@example.net,Subscription Cancellation,Medium,Resolved,Bob,2026-05-16 06:50:46,2026-05-22 06:50:46,3.0
+121,Leah Williams,davidhughes@example.com,Product Defect,High,Open,Michael,2026-05-22 01:44:28,,
+122,Curtis Howell,cooperchad@example.com,Product Defect,Medium,Open,Bob,2026-06-27 20:12:46,,
+123,Veronica Berry,seth42@example.org,Refund Request,Medium,Open,Michael,2026-05-17 02:15:59,,
+124,Susan Floyd,xchan@example.net,Subscription Cancellation,Low,In Progress,Sophia,2026-06-01 05:52:00,,
+125,Yvonne Oconnor,samuel49@example.com,Payment Issue,Critical,In Progress,Michael,2026-07-03 14:58:05,,
+126,Mike Webb,kimberly94@example.com,Shipping Issue,Critical,Resolved,Bob,2026-04-14 17:09:28,2026-04-21 17:09:28,2.0
+127,Christopher Ward,brayvincent@example.org,Login Problem,Medium,Resolved,Michael,2026-06-26 04:26:45,2026-06-29 04:26:45,2.0
+128,Jacqueline Myers,itorres@example.org,Payment Issue,High,In Progress,Alice,2026-04-22 02:30:40,,
+129,Mason Huerta,kellygibson@example.net,Account Locked,Critical,Open,Emma,2026-05-03 09:08:45,,
+130,Justin Green,gwhite@example.com,Product Defect,Low,In Progress,Alice,2026-04-29 17:20:05,,
+131,Lisa Bennett,elizabeth41@example.org,Payment Issue,High,Open,Emma,2026-06-26 13:30:45,,
+132,Haley Lee,perrygates@example.com,Product Defect,Medium,Resolved,Charlie,2026-05-24 20:26:46,2026-05-28 20:26:46,2.0
+133,Steven Martinez,bryan42@example.net,Shipping Issue,Critical,Closed,Bob,2026-07-03 23:06:00,2026-07-13 23:06:00,1.0
+134,Linda Hodge,panderson@example.com,Subscription Cancellation,High,In Progress,Sophia,2026-06-05 10:08:31,,
+135,Robert Young,moorejasmine@example.org,Shipping Issue,Critical,Open,Emma,2026-05-04 14:21:47,,
+136,Rachel Smith,zgraves@example.com,Product Defect,Low,Open,Alice,2026-05-08 16:05:29,,
+137,Samantha White,tmason@example.net,Refund Request,Critical,In Progress,Charlie,2026-06-24 13:36:27,,
+138,Danielle Gonzalez,jillianchoi@example.com,Payment Issue,Medium,Closed,Sophia,2026-06-15 17:56:19,2026-06-25 17:56:19,1.0
+139,Ethan Lang,andrejones@example.com,Order Delay,Medium,Open,Charlie,2026-06-20 08:51:42,,
+140,Kimberly Woodard,gonzalezkatherine@example.net,Shipping Issue,Critical,Closed,Michael,2026-05-27 03:40:20,2026-06-03 03:40:20,5.0
+141,Patricia Baker,michele83@example.net,Product Defect,Low,In Progress,Michael,2026-06-15 07:13:34,,
+142,Steven Mann,swilliamson@example.net,Shipping Issue,Low,Closed,Michael,2026-05-09 11:44:45,2026-05-10 11:44:45,1.0
+143,William West,jamie64@example.net,Payment Issue,Medium,Closed,Charlie,2026-06-23 20:13:22,2026-06-26 20:13:22,1.0
+144,Amber Olson,kshepard@example.com,Shipping Issue,Medium,Open,Michael,2026-07-02 21:39:44,,
+145,Amy Park,jacksonjames@example.com,Shipping Issue,Medium,Open,James,2026-07-01 12:46:36,,
+146,Jessica Long,johnbailey@example.com,Product Defect,Critical,Resolved,Michael,2026-04-27 02:35:48,2026-05-03 02:35:48,4.0
+147,Robert Ali,martinaustin@example.net,Subscription Cancellation,High,In Progress,James,2026-06-07 17:34:33,,
+148,Michael Hall,julie95@example.org,Shipping Issue,Critical,Closed,James,2026-04-17 15:11:00,2026-04-21 15:11:00,5.0
+149,Katelyn Howard,tquinn@example.net,Order Delay,Critical,Open,Sophia,2026-06-03 04:40:52,,
+150,Jennifer Gates,robertharrington@example.org,Product Defect,Medium,Closed,James,2026-06-01 02:35:02,2026-06-02 02:35:02,4.0
+151,Wanda Lee,emily13@example.com,Login Problem,Critical,Resolved,Alice,2026-04-10 13:51:26,2026-04-13 13:51:26,5.0
+152,Brian Edwards,stephaniemeyer@example.net,Refund Request,High,In Progress,Alice,2026-04-12 23:43:39,,
+153,Thomas Jones,seansnyder@example.org,Refund Request,Low,Closed,Bob,2026-06-30 09:08:33,2026-07-09 09:08:33,3.0
+154,Regina Lopez,rmartinez@example.com,Subscription Cancellation,Medium,In Progress,James,2026-06-17 09:46:10,,
+155,Michele Cooper,stephenhanson@example.org,Payment Issue,Critical,Closed,James,2026-05-02 05:02:19,2026-05-05 05:02:19,2.0
+156,Krystal Cross,kevinwells@example.com,Shipping Issue,High,Closed,David,2026-06-17 16:05:15,2026-06-27 16:05:15,5.0
+157,Daniel Brown,brenda98@example.com,Product Defect,High,Closed,Emma,2026-05-04 08:02:16,2026-05-08 08:02:16,2.0
+158,Deanna Le,broberts@example.net,Product Defect,Medium,Open,Bob,2026-04-08 01:54:45,,
+159,Lauren Robles,ambersnow@example.net,Payment Issue,Critical,Open,James,2026-06-10 11:36:37,,
+160,Tina Chan,xporter@example.net,Login Problem,Medium,Resolved,Michael,2026-05-22 19:52:31,2026-05-26 19:52:31,4.0
+161,Charles Shah,martinezjoseph@example.net,Shipping Issue,Critical,Open,Alice,2026-06-22 23:55:55,,
+162,Albert Higgins,tayloralexis@example.net,Product Defect,Medium,Closed,James,2026-04-11 09:31:38,2026-04-18 09:31:38,4.0
+163,Patricia Hall,colemanvictor@example.net,Shipping Issue,High,Resolved,David,2026-06-09 16:07:40,2026-06-16 16:07:40,3.0
+164,Jeanne Boyd,reedmackenzie@example.org,Order Delay,Medium,Resolved,Bob,2026-04-18 16:57:14,2026-04-21 16:57:14,1.0
+165,Shawn Peterson,npittman@example.net,Shipping Issue,Low,Closed,Michael,2026-04-08 15:16:40,2026-04-16 15:16:40,3.0
+166,Theresa Montgomery,michael24@example.net,Product Defect,Medium,Resolved,Charlie,2026-04-09 08:28:46,2026-04-18 08:28:46,1.0
+167,Tanya Johnson,gregory78@example.com,Payment Issue,Medium,In Progress,David,2026-05-22 16:15:41,,
+168,Shannon Smith,ronnierobles@example.com,Login Problem,Low,In Progress,Charlie,2026-05-05 12:17:41,,
+169,John Werner,victoriahawkins@example.net,Payment Issue,High,Closed,Michael,2026-06-07 20:21:46,2026-06-08 20:21:46,4.0
+170,Claudia Sanchez,nicolefrederick@example.net,Shipping Issue,Critical,Open,Michael,2026-05-05 21:15:26,,
+171,Patricia Ibarra,jennifercohen@example.com,Product Defect,High,Resolved,Charlie,2026-06-30 15:52:47,2026-07-04 15:52:47,1.0
+172,Christina Jackson,afisher@example.com,Product Defect,High,Open,Emma,2026-04-23 03:15:28,,
+173,Rebecca Burnett DDS,davidreynolds@example.com,Product Defect,High,In Progress,James,2026-06-07 11:49:30,,
+174,James Martinez,stephenburns@example.org,Subscription Cancellation,Critical,Resolved,Bob,2026-04-15 02:51:30,2026-04-24 02:51:30,3.0
+175,Jonathan Moore,laurabriggs@example.org,Account Locked,High,Open,David,2026-06-02 19:37:19,,
+176,Mrs. Kathleen Thompson,thomasharry@example.net,Order Delay,High,Resolved,Alice,2026-04-26 05:31:19,2026-04-27 05:31:19,2.0
+177,Amy Kennedy,edward15@example.org,Subscription Cancellation,Medium,Open,Michael,2026-04-06 15:09:36,,
+178,Whitney Long,aguilarmichael@example.org,Login Problem,High,Resolved,Emma,2026-05-09 14:03:40,2026-05-19 14:03:40,1.0
+179,Angelica Hawkins,john11@example.net,Refund Request,Low,In Progress,David,2026-05-09 22:32:24,,
+180,Noah Russo,adamslogan@example.net,Order Delay,High,In Progress,Sophia,2026-04-29 15:28:57,,
+181,Nicole Williams,richard63@example.com,Shipping Issue,Critical,Closed,Emma,2026-04-25 13:46:32,2026-04-29 13:46:32,2.0
+182,Joseph Foster,steven42@example.com,Payment Issue,Medium,Resolved,David,2026-06-19 16:15:19,2026-06-27 16:15:19,3.0
+183,Erin Gutierrez,judy85@example.net,Shipping Issue,High,Resolved,Bob,2026-06-10 03:40:40,2026-06-17 03:40:40,5.0
+184,Anne Jordan,awhite@example.com,Order Delay,Critical,Resolved,Michael,2026-06-14 05:12:54,2026-06-24 05:12:54,4.0
+185,Raymond Morgan,mjohnson@example.net,Payment Issue,Low,Resolved,Emma,2026-05-29 13:54:34,2026-06-05 13:54:34,3.0
+186,Fred Murray,russell87@example.org,Login Problem,Low,Resolved,Emma,2026-06-11 01:42:08,2026-06-21 01:42:08,1.0
+187,Daniel Mahoney,sheilajackson@example.org,Shipping Issue,Critical,In Progress,Charlie,2026-04-23 11:26:35,,
+188,John Wiley,jesusthomas@example.com,Refund Request,High,Open,Sophia,2026-06-11 17:16:05,,
+189,Timothy Boyer,billymanning@example.net,Login Problem,Medium,In Progress,David,2026-05-17 16:35:08,,
+190,Darlene Moody,joseph99@example.com,Refund Request,Medium,Closed,David,2026-05-15 13:58:10,2026-05-24 13:58:10,2.0
+191,Kelli Petty,xhuff@example.org,Payment Issue,Medium,Resolved,Sophia,2026-05-25 05:12:00,2026-06-02 05:12:00,1.0
+192,Robert Matthews,lgarrison@example.com,Refund Request,Medium,In Progress,Emma,2026-05-07 09:00:42,,
+193,Michael Griffin,reginaporter@example.org,Account Locked,Low,Closed,Alice,2026-05-18 07:34:52,2026-05-27 07:34:52,4.0
+194,Shane Hubbard,lindsey26@example.org,Subscription Cancellation,Low,In Progress,David,2026-05-11 20:29:35,,
+195,Amy Myers,amandamaldonado@example.org,Product Defect,Low,Resolved,David,2026-06-08 14:35:39,2026-06-16 14:35:39,1.0
+196,Todd Harvey Jr.,collinscolleen@example.com,Shipping Issue,Low,In Progress,Emma,2026-06-28 07:05:04,,
+197,David Taylor,tammy44@example.org,Payment Issue,High,Open,David,2026-05-21 23:00:43,,
+198,Andrea Jones,williamscrystal@example.com,Refund Request,High,Resolved,Sophia,2026-05-07 09:21:16,2026-05-14 09:21:16,3.0
+199,Diane Shaw,msimmons@example.com,Shipping Issue,Critical,Resolved,Alice,2026-04-17 03:47:32,2026-04-19 03:47:32,2.0
+200,Douglas Smith,marissajohnson@example.net,Login Problem,Low,Resolved,Michael,2026-06-28 05:03:37,2026-07-08 05:03:37,4.0
+201,Amanda Mason,johngrant@example.org,Order Delay,Low,Open,Emma,2026-04-15 23:38:49,,
+202,Katherine Thomas,karen59@example.com,Account Locked,High,Closed,David,2026-06-28 20:04:10,2026-07-07 20:04:10,4.0
+203,Patrick Jones MD,vyoung@example.com,Payment Issue,High,In Progress,Charlie,2026-06-11 08:39:17,,
+204,Daniel Jones,johnhenry@example.net,Payment Issue,Medium,In Progress,Bob,2026-05-02 17:54:33,,
+205,Mary Mendoza,hmartin@example.com,Order Delay,Medium,Open,Alice,2026-06-09 17:09:20,,
+206,Larry Johnston,nicholasdavis@example.net,Shipping Issue,High,Closed,Sophia,2026-05-20 14:01:31,2026-05-27 14:01:31,1.0
+207,Jesse Perry,patricia76@example.com,Account Locked,Low,In Progress,James,2026-05-01 21:27:46,,
+208,Karen Hamilton,pricemaxwell@example.com,Subscription Cancellation,Low,Closed,Alice,2026-05-12 08:40:44,2026-05-21 08:40:44,1.0
+209,Lori Brown,kathy06@example.org,Subscription Cancellation,Medium,Closed,James,2026-05-02 06:56:45,2026-05-09 06:56:45,2.0
+210,Dr. Shane Martin,jessicabaxter@example.com,Account Locked,Critical,In Progress,Charlie,2026-05-21 04:11:42,,
+211,Brandon Bell,daniel14@example.org,Login Problem,High,Open,Sophia,2026-06-09 01:31:20,,
+212,Leslie Ingram,pdavis@example.org,Order Delay,Low,In Progress,James,2026-06-30 22:25:22,,
+213,Dawn Watkins,jamesdougherty@example.org,Refund Request,Low,In Progress,Alice,2026-05-27 18:35:45,,
+214,Russell Edwards,charlespeterson@example.org,Payment Issue,Low,In Progress,Emma,2026-05-30 12:00:27,,
+215,Rebecca Hall,trevor37@example.com,Account Locked,Medium,In Progress,Charlie,2026-05-25 03:43:25,,
+216,Donna Lewis,david92@example.org,Order Delay,Critical,Resolved,David,2026-04-24 15:52:39,2026-05-02 15:52:39,4.0
+217,Christine Stewart,wbriggs@example.net,Product Defect,High,In Progress,Charlie,2026-06-04 18:20:17,,
+218,Amy Pittman,webblindsay@example.com,Subscription Cancellation,Critical,Resolved,Charlie,2026-05-05 22:33:28,2026-05-10 22:33:28,3.0
+219,Aaron Gates,castillorobert@example.com,Product Defect,Medium,Closed,Sophia,2026-04-19 18:45:31,2026-04-24 18:45:31,4.0
+220,Christopher Gonzalez,iharrison@example.net,Refund Request,Medium,Open,Alice,2026-07-01 06:28:45,,
+221,David Grimes,kimberlywilson@example.com,Refund Request,High,Resolved,David,2026-06-24 15:59:17,2026-07-03 15:59:17,2.0
+222,Jessica Smith,mary40@example.org,Account Locked,Critical,Open,Michael,2026-04-26 01:46:01,,
+223,Daniel Wilson,abrock@example.org,Shipping Issue,Critical,Closed,Michael,2026-04-13 17:32:57,2026-04-22 17:32:57,1.0
+224,Richard Joyce,lucasmichael@example.com,Subscription Cancellation,High,In Progress,Alice,2026-06-01 03:39:05,,
+225,Amanda Green,xmay@example.com,Login Problem,High,Closed,Sophia,2026-06-17 02:08:10,2026-06-23 02:08:10,5.0
+226,William Decker,brenda50@example.net,Login Problem,Critical,Open,Alice,2026-05-12 06:45:46,,
+227,Jennifer Hodge,sara56@example.org,Shipping Issue,Medium,Open,Emma,2026-06-29 09:51:26,,
+228,Jessica Baker,danielfranco@example.com,Order Delay,Medium,In Progress,Emma,2026-04-08 11:18:14,,
+229,David Walters,dspencer@example.net,Product Defect,Low,Closed,Bob,2026-05-25 07:25:07,2026-05-28 07:25:07,1.0
+230,Ashley Cohen,qmontgomery@example.com,Product Defect,High,Open,David,2026-05-23 22:27:57,,
+231,Laurie Watson,kaneheather@example.org,Account Locked,Critical,In Progress,Michael,2026-04-10 04:22:53,,
+232,Jennifer Bell,stephaniemorris@example.com,Login Problem,Medium,In Progress,James,2026-04-30 18:19:29,,
+233,John Hunt,jose29@example.net,Login Problem,High,In Progress,James,2026-05-17 16:56:23,,
+234,George Jordan,ashley71@example.com,Refund Request,Low,Closed,Emma,2026-07-03 10:34:34,2026-07-13 10:34:34,1.0
+235,Harry Anderson,hparks@example.net,Shipping Issue,Critical,In Progress,James,2026-06-03 22:01:02,,
+236,Casey Scott,qnewman@example.net,Login Problem,Critical,Closed,Sophia,2026-05-25 08:26:05,2026-05-28 08:26:05,2.0
+237,Tyler Martin,gsandoval@example.org,Subscription Cancellation,Medium,Closed,Emma,2026-05-23 01:15:37,2026-05-30 01:15:37,1.0
+238,Mary Peterson,carolyn66@example.org,Shipping Issue,Low,In Progress,Sophia,2026-05-10 15:39:06,,
+239,Aaron Ford,hobbskristin@example.org,Payment Issue,Medium,Open,Alice,2026-04-17 19:44:36,,
+240,James Sims,robertlopez@example.org,Account Locked,Low,Open,Bob,2026-06-24 12:06:19,,
+241,Joseph Frank,roberthayes@example.com,Order Delay,Low,Closed,Charlie,2026-04-21 09:36:08,2026-04-30 09:36:08,5.0
+242,Brandy Wilcox,bookerrobert@example.com,Subscription Cancellation,Critical,Open,James,2026-05-22 09:24:24,,
+243,Juan Hall,ericnelson@example.net,Subscription Cancellation,Medium,Open,Emma,2026-05-08 06:58:24,,
+244,Allison Harris,williamcollins@example.com,Product Defect,Critical,Open,Michael,2026-04-11 05:38:44,,
+245,Thomas Hamilton,xcummings@example.net,Login Problem,High,In Progress,Alice,2026-04-30 23:24:35,,
+246,Jonathan Martinez,gstevenson@example.org,Product Defect,Critical,Closed,David,2026-05-20 00:51:06,2026-05-30 00:51:06,2.0
+247,Michelle Mercado,bperez@example.com,Shipping Issue,Low,Resolved,Bob,2026-04-30 15:29:58,2026-05-07 15:29:58,2.0
+248,Barry Johnson,bushlee@example.net,Product Defect,High,In Progress,David,2026-04-11 03:09:00,,
+249,Victoria Davis,laura59@example.com,Payment Issue,High,In Progress,Bob,2026-06-15 21:36:16,,
+250,Christine Mcmahon,philipbrown@example.net,Login Problem,Low,In Progress,James,2026-06-30 03:55:38,,
+251,Kristen Johnson,elizabeth58@example.net,Refund Request,High,In Progress,Michael,2026-05-18 22:12:43,,
+252,Susan Lewis,elizabethhughes@example.net,Account Locked,Medium,In Progress,Sophia,2026-06-16 14:09:53,,
+253,Jessica Fischer,johnmartinez@example.com,Login Problem,Medium,Closed,Sophia,2026-05-04 09:11:12,2026-05-06 09:11:12,2.0
+254,Brenda White,katherinegillespie@example.org,Shipping Issue,High,In Progress,Sophia,2026-05-10 05:30:36,,
+255,Kimberly Webb,waynesmith@example.net,Login Problem,High,Closed,Charlie,2026-05-16 02:15:54,2026-05-18 02:15:54,4.0
+256,Jay Sims,davidmitchell@example.net,Product Defect,Medium,In Progress,David,2026-06-05 19:02:28,,
+257,Kristin Jensen,thomas60@example.net,Subscription Cancellation,Medium,Closed,Michael,2026-06-15 10:26:25,2026-06-20 10:26:25,5.0
+258,Henry Alvarado,adam94@example.org,Login Problem,Critical,Closed,James,2026-04-10 01:36:06,2026-04-13 01:36:06,2.0
+259,Aaron Andrade,jerome13@example.com,Order Delay,High,Resolved,Michael,2026-05-12 11:28:35,2026-05-21 11:28:35,3.0
+260,Clifford Shepard,ksanders@example.net,Payment Issue,High,Closed,James,2026-04-09 16:02:47,2026-04-19 16:02:47,1.0
+261,Shawn Molina,wilsonrussell@example.org,Subscription Cancellation,High,In Progress,Michael,2026-05-25 09:35:22,,
+262,Paul Phillips,srodriguez@example.net,Account Locked,Medium,Open,Emma,2026-04-23 21:52:06,,
+263,Lindsey Allen,katiepitts@example.org,Product Defect,High,Resolved,Charlie,2026-05-20 17:40:14,2026-05-29 17:40:14,4.0
+264,Antonio Anderson,xthomas@example.net,Product Defect,Medium,Closed,James,2026-04-24 15:55:20,2026-05-02 15:55:20,1.0
+265,Valerie Lindsey,pherrera@example.com,Account Locked,High,Open,David,2026-06-12 18:31:59,,
+266,Kristin Donovan,mprice@example.net,Shipping Issue,Critical,In Progress,Sophia,2026-05-06 09:08:53,,
+267,Robert Simmons,moorepatricia@example.net,Order Delay,Critical,Open,Bob,2026-05-25 02:40:59,,
+268,Dennis Decker,kathy48@example.com,Order Delay,High,Closed,Emma,2026-06-01 16:33:21,2026-06-03 16:33:21,3.0
+269,Kristin Craig,ojackson@example.org,Account Locked,High,In Progress,Charlie,2026-05-29 19:44:59,,
+270,Richard Brown,cortezjessica@example.net,Product Defect,High,Open,Alice,2026-04-28 20:53:24,,
+271,Timothy Peterson,madeline81@example.com,Product Defect,Medium,In Progress,Michael,2026-06-22 18:50:47,,
+272,Jackson Clark,jthompson@example.org,Order Delay,Low,Closed,David,2026-06-08 17:20:20,2026-06-14 17:20:20,4.0
+273,Anthony Hull,jennifercooper@example.com,Payment Issue,Low,Closed,Michael,2026-06-25 03:09:08,2026-07-02 03:09:08,2.0
+274,Amanda Martinez,angelica09@example.org,Product Defect,High,In Progress,David,2026-04-30 21:08:24,,
+275,Michele Davis,ortiztodd@example.net,Login Problem,Low,Resolved,Michael,2026-05-24 20:57:12,2026-05-27 20:57:12,3.0
+276,Craig Schneider,gibsonveronica@example.net,Login Problem,Critical,Resolved,Alice,2026-06-13 13:57:17,2026-06-14 13:57:17,3.0
+277,Amanda Carter,angelicahoward@example.net,Subscription Cancellation,Medium,Open,Michael,2026-06-30 00:20:24,,
+278,Justin Good,justin38@example.net,Account Locked,Critical,Open,Sophia,2026-04-22 08:52:56,,
+279,Dr. Matthew Espinoza,fmurphy@example.org,Account Locked,High,Closed,Alice,2026-04-06 16:26:55,2026-04-14 16:26:55,4.0
+280,Jacqueline Jacobs,torresmichael@example.net,Shipping Issue,Critical,Open,Sophia,2026-07-01 09:07:26,,
+281,Robert Roy,bbeasley@example.net,Product Defect,Critical,In Progress,Alice,2026-04-16 08:22:02,,
+282,Christopher Taylor,pnelson@example.net,Subscription Cancellation,High,Open,Michael,2026-06-16 18:00:10,,
+283,Margaret Griffith,simsjennifer@example.org,Account Locked,Critical,In Progress,Charlie,2026-04-24 02:33:39,,
+284,Luke Smith,tmurray@example.net,Product Defect,High,Closed,Alice,2026-04-24 07:48:50,2026-05-04 07:48:50,5.0
+285,Kaitlyn Ayala,nicolejensen@example.com,Login Problem,Low,Open,Alice,2026-05-20 10:05:16,,
+286,Cheryl Buckley,knightmichael@example.net,Subscription Cancellation,High,In Progress,Alice,2026-04-23 01:59:34,,
+287,Alexandra Whitney,romeropatrick@example.org,Payment Issue,Low,In Progress,Michael,2026-06-05 20:19:58,,
+288,Travis Martin,patricia18@example.com,Subscription Cancellation,High,Closed,Charlie,2026-05-21 00:07:13,2026-05-24 00:07:13,2.0
+289,Colleen Contreras,pgutierrez@example.net,Account Locked,Medium,Resolved,Emma,2026-06-05 10:38:59,2026-06-06 10:38:59,1.0
+290,Colleen Reyes,jerry66@example.com,Payment Issue,High,In Progress,Alice,2026-05-04 21:59:25,,
+291,Colton Reese,thomas79@example.org,Order Delay,Medium,Open,Emma,2026-04-25 14:55:27,,
+292,Jennifer Wilson,brendan03@example.org,Order Delay,Medium,In Progress,Sophia,2026-06-18 12:21:11,,
+293,David Howard,bartlettshane@example.net,Payment Issue,Critical,Open,Sophia,2026-04-06 11:03:58,,
+294,George Edwards,nhernandez@example.net,Order Delay,High,Resolved,David,2026-05-31 02:08:17,2026-06-06 02:08:17,4.0
+295,Larry Cruz,gonzalezjennifer@example.com,Login Problem,Medium,Open,David,2026-04-06 04:22:14,,
+296,Kathleen Foley,ngill@example.net,Shipping Issue,Low,In Progress,Michael,2026-04-08 15:05:13,,
+297,Gloria Anderson,qmathis@example.net,Product Defect,Medium,Closed,Michael,2026-06-16 08:31:23,2026-06-19 08:31:23,2.0
+298,Rachel Neal,mary40@example.com,Subscription Cancellation,High,Open,Emma,2026-04-13 03:58:07,,
+299,Maria Clark,uwright@example.net,Shipping Issue,Low,Resolved,Michael,2026-06-21 09:47:36,2026-06-26 09:47:36,3.0
+300,Jacqueline Simmons,jennifer13@example.org,Product Defect,High,Closed,Charlie,2026-05-30 09:56:20,2026-06-02 09:56:20,4.0
+301,Timothy Scott,robinlee@example.org,Refund Request,High,Closed,Emma,2026-07-03 22:40:30,2026-07-08 22:40:30,3.0
+302,Sonia Jones,nweiss@example.net,Payment Issue,Low,Resolved,David,2026-05-18 12:33:31,2026-05-25 12:33:31,1.0
+303,Jennifer Sanchez,jacobslisa@example.net,Product Defect,High,Open,Charlie,2026-04-13 19:47:45,,
+304,Alexandria Turner,angelajohnson@example.net,Order Delay,Medium,Closed,Alice,2026-04-25 03:02:43,2026-04-27 03:02:43,5.0
+305,Sandra Bailey,sheryllynch@example.org,Payment Issue,Critical,Resolved,David,2026-05-23 00:51:47,2026-06-01 00:51:47,4.0
+306,Jennifer Thompson,davidmosley@example.org,Subscription Cancellation,Medium,Open,Sophia,2026-04-24 11:24:52,,
+307,Ronald Dunn,matthew92@example.net,Refund Request,High,Resolved,Sophia,2026-05-27 16:31:55,2026-05-31 16:31:55,1.0
+308,Oscar Johnson,josephmoon@example.net,Order Delay,High,Open,Charlie,2026-05-31 21:26:12,,
+309,Lance Davis,jlutz@example.net,Refund Request,High,Open,Alice,2026-06-04 21:05:22,,
+310,Suzanne Ferrell,christopherbaldwin@example.org,Refund Request,Critical,Open,Sophia,2026-05-05 11:35:35,,
+311,Emily Henderson,anthony39@example.com,Order Delay,Medium,In Progress,Bob,2026-06-14 12:57:13,,
+312,Heather Chang,roydaniel@example.com,Subscription Cancellation,Critical,In Progress,Alice,2026-05-21 09:54:24,,
+313,Justin Baker,shaffermelanie@example.net,Shipping Issue,Low,Resolved,Michael,2026-05-27 22:20:11,2026-06-01 22:20:11,3.0
+314,Monique Rivers,jsuarez@example.com,Account Locked,High,Open,Emma,2026-06-21 21:43:10,,
+315,Joshua Carlson,joseward@example.org,Account Locked,Low,Open,David,2026-06-20 06:26:06,,
+316,Troy Walters,twoods@example.org,Order Delay,High,In Progress,Michael,2026-05-19 11:11:45,,
+317,Christine Weber,shawjoshua@example.com,Product Defect,Low,In Progress,Sophia,2026-07-03 22:10:33,,
+318,Dr. Jessica Sanchez,larrysmith@example.net,Payment Issue,Critical,Closed,David,2026-04-23 09:26:07,2026-04-26 09:26:07,4.0
+319,Christine Matthews,hansonanna@example.com,Subscription Cancellation,Medium,Closed,Bob,2026-04-08 17:12:23,2026-04-14 17:12:23,2.0
+320,Charles Snyder,matthewmorris@example.com,Account Locked,High,In Progress,James,2026-05-01 05:17:15,,
+321,Jaclyn Benson,crystalhampton@example.com,Shipping Issue,High,Open,Bob,2026-04-17 23:40:58,,
+322,Stephen Humphrey,julia12@example.org,Refund Request,Critical,In Progress,David,2026-05-29 21:22:06,,
+323,Robert Schwartz,smithstephen@example.org,Shipping Issue,Medium,Closed,Michael,2026-06-23 03:36:59,2026-06-24 03:36:59,2.0
+324,James Kirk,sweeks@example.org,Payment Issue,Critical,Closed,Michael,2026-05-16 21:36:49,2026-05-21 21:36:49,5.0
+325,Matthew Lucas,regina02@example.com,Order Delay,High,Resolved,Michael,2026-06-21 11:50:08,2026-06-22 11:50:08,5.0
+326,Timothy Johnson,williamli@example.net,Login Problem,High,Open,Sophia,2026-05-19 13:16:15,,
+327,Elizabeth Mahoney,ghill@example.org,Login Problem,Medium,Resolved,Emma,2026-05-15 04:23:57,2026-05-16 04:23:57,4.0
+328,Stephanie Santos,meagan79@example.net,Subscription Cancellation,High,In Progress,Bob,2026-04-28 05:39:54,,
+329,Deanna Ramirez,taradrake@example.org,Account Locked,Low,Open,David,2026-04-20 06:58:33,,
+330,Elizabeth Phillips,mackchristopher@example.net,Shipping Issue,Medium,Resolved,Sophia,2026-06-24 16:46:57,2026-07-03 16:46:57,5.0
+331,Jodi Dalton,westronnie@example.org,Login Problem,Critical,Resolved,Alice,2026-06-13 08:26:47,2026-06-21 08:26:47,4.0
+332,Douglas Robinson,darrell61@example.org,Product Defect,Medium,Closed,Sophia,2026-04-17 18:07:33,2026-04-20 18:07:33,4.0
+333,David Hess,cheryl28@example.com,Login Problem,High,In Progress,Michael,2026-05-29 22:15:24,,
+334,Bryan Newton,jacqueline69@example.org,Product Defect,Low,Resolved,Charlie,2026-04-11 16:15:21,2026-04-19 16:15:21,4.0
+335,Christopher Willis,vrobinson@example.net,Order Delay,Medium,Open,James,2026-04-20 02:29:03,,
+336,Natasha Cohen,michaelle@example.com,Refund Request,Critical,Open,Charlie,2026-07-03 21:59:37,,
+337,Jason Tucker,katrina35@example.net,Product Defect,Critical,Closed,Michael,2026-05-25 21:29:28,2026-06-03 21:29:28,2.0
+338,Danielle Rivas,kristen25@example.org,Subscription Cancellation,High,In Progress,Michael,2026-04-19 17:29:52,,
+339,Richard Strickland,john24@example.net,Shipping Issue,Low,Resolved,Bob,2026-04-19 17:56:25,2026-04-24 17:56:25,5.0
+340,Joshua Douglas,michelle38@example.org,Product Defect,Medium,Resolved,Charlie,2026-04-14 16:21:45,2026-04-19 16:21:45,5.0
+341,Sara Diaz,aaron62@example.org,Shipping Issue,Low,Resolved,Alice,2026-05-12 19:45:57,2026-05-21 19:45:57,4.0
+342,Kimberly Pham,wellsrebecca@example.net,Refund Request,Critical,Resolved,Michael,2026-06-15 23:23:22,2026-06-25 23:23:22,5.0
+343,Zachary Taylor,halllinda@example.net,Login Problem,High,Resolved,Sophia,2026-04-24 14:38:37,2026-05-02 14:38:37,1.0
+344,Jeffrey Mccarthy,christianmiller@example.net,Shipping Issue,High,Resolved,Emma,2026-07-02 04:48:23,2026-07-05 04:48:23,2.0
+345,Kristina Nguyen,baileyalexander@example.org,Account Locked,Critical,Closed,Sophia,2026-07-02 12:12:04,2026-07-07 12:12:04,4.0
+346,Monique Diaz,jchen@example.net,Account Locked,Low,Closed,James,2026-04-28 23:51:11,2026-05-06 23:51:11,1.0
+347,Adrian Wise,bridgesdaniel@example.net,Product Defect,Low,Open,Alice,2026-06-29 14:39:10,,
+348,Diana Myers,kleinjamie@example.org,Order Delay,Critical,Open,Bob,2026-06-07 17:14:03,,
+349,Spencer Jackson,normanmichele@example.com,Product Defect,Low,Open,Alice,2026-04-14 21:45:45,,
+350,Kayla Underwood,taylor02@example.com,Shipping Issue,Critical,Open,Sophia,2026-04-10 08:19:47,,
+351,Francisco Jenkins,ugates@example.org,Refund Request,Medium,Closed,Sophia,2026-04-12 23:18:58,2026-04-14 23:18:58,5.0
+352,Kelly Monroe,edavis@example.org,Order Delay,Critical,Resolved,Alice,2026-05-15 12:14:46,2026-05-18 12:14:46,5.0
+353,Billy Smith,orozcokyle@example.com,Payment Issue,Critical,Closed,Bob,2026-05-20 22:00:34,2026-05-28 22:00:34,4.0
+354,Eric Blair,jessica35@example.com,Account Locked,Medium,In Progress,David,2026-06-08 21:13:13,,
+355,Jacob Harper,laurenlawrence@example.com,Order Delay,High,Resolved,James,2026-05-21 19:17:25,2026-05-30 19:17:25,4.0
+356,Mandy Santiago,amartin@example.net,Shipping Issue,Critical,Closed,David,2026-06-11 13:42:00,2026-06-19 13:42:00,4.0
+357,Mark King,zshaw@example.com,Subscription Cancellation,High,Open,Emma,2026-06-06 23:12:39,,
+358,Patrick Hodges,rshaffer@example.org,Subscription Cancellation,Critical,Open,Alice,2026-04-16 06:18:25,,
+359,Frederick Kim,nsmith@example.org,Shipping Issue,Critical,In Progress,James,2026-04-22 15:23:27,,
+360,Alicia Sanders,daniel01@example.net,Product Defect,Medium,In Progress,Michael,2026-04-24 13:16:55,,
+361,Jimmy Flores,wduke@example.org,Order Delay,Low,Open,Emma,2026-05-02 12:13:20,,
+362,Katherine Smith,mcknightmark@example.com,Order Delay,Critical,Closed,Charlie,2026-04-07 01:06:39,2026-04-11 01:06:39,3.0
+363,Jennifer Lopez,thomas93@example.org,Login Problem,Low,In Progress,Sophia,2026-05-16 04:56:27,,
+364,Tiffany Ward,evan19@example.net,Refund Request,Critical,Closed,Sophia,2026-04-29 01:02:51,2026-05-09 01:02:51,2.0
+365,Gregory Cooke,rhondarodriguez@example.org,Payment Issue,Medium,Resolved,Michael,2026-06-01 11:43:51,2026-06-06 11:43:51,3.0
+366,Chloe Smith,mmendoza@example.com,Account Locked,High,Resolved,Sophia,2026-04-22 20:01:51,2026-04-26 20:01:51,5.0
+367,Nicholas Hill,morrismichael@example.org,Product Defect,Critical,In Progress,Michael,2026-06-29 18:55:52,,
+368,Lisa Johnson,dreynolds@example.com,Shipping Issue,Low,In Progress,Alice,2026-05-19 23:48:00,,
+369,Emma Russo,kimchristopher@example.com,Subscription Cancellation,Critical,Resolved,David,2026-06-07 13:56:57,2026-06-14 13:56:57,1.0
+370,Meghan Meyer,jason96@example.net,Login Problem,Low,In Progress,Charlie,2026-06-05 01:51:13,,
+371,Jerry Anderson,ebrown@example.org,Account Locked,High,In Progress,Alice,2026-06-24 02:02:52,,
+372,Keith Lynch DDS,ybaker@example.org,Account Locked,Critical,Open,Michael,2026-06-26 00:20:42,,
+373,Nancy Torres,robynlewis@example.org,Refund Request,Critical,In Progress,Bob,2026-05-12 00:00:37,,
+374,Jacqueline Farley,dsimpson@example.com,Subscription Cancellation,Medium,Open,Emma,2026-04-14 20:07:26,,
+375,Teresa Dalton,powerskathleen@example.net,Account Locked,High,Closed,Michael,2026-05-13 08:16:45,2026-05-19 08:16:45,3.0
+376,David Mcintyre,iharris@example.com,Product Defect,Low,Open,James,2026-04-29 03:16:58,,
+377,Stephanie Acosta,daniellesexton@example.net,Shipping Issue,Medium,Open,Bob,2026-05-20 03:43:06,,
+378,Stephanie Rose,dgeorge@example.net,Subscription Cancellation,Critical,Resolved,Sophia,2026-04-19 00:23:09,2026-04-24 00:23:09,3.0
+379,Kimberly Chang,millerbobby@example.com,Account Locked,Critical,In Progress,David,2026-04-22 10:33:41,,
+380,Alexander Morris,ubrown@example.net,Account Locked,Critical,Open,Alice,2026-05-10 05:15:26,,
+381,Hannah Luna,michael49@example.org,Login Problem,High,Closed,Sophia,2026-06-28 04:54:24,2026-07-07 04:54:24,5.0
+382,Patrick Ibarra,tprice@example.org,Login Problem,Medium,Closed,Bob,2026-06-06 21:20:26,2026-06-13 21:20:26,5.0
+383,Lisa Shields,aguilarmargaret@example.com,Shipping Issue,Low,In Progress,Bob,2026-06-15 03:18:14,,
+384,Amy Berg,robertschristina@example.net,Payment Issue,Critical,Open,James,2026-06-21 23:11:06,,
+385,Jeffrey Wright,thompsonsarah@example.net,Account Locked,Low,Closed,Emma,2026-05-02 18:55:36,2026-05-11 18:55:36,5.0
+386,Randall Fitzgerald,smithwilliam@example.com,Refund Request,Critical,Open,David,2026-04-06 23:24:16,,
+387,Stephanie Wallace,moralesdavid@example.com,Product Defect,Low,Resolved,Alice,2026-06-17 20:20:55,2026-06-24 20:20:55,3.0
+388,Stephen Wilkerson,yyoung@example.com,Shipping Issue,Low,Resolved,Sophia,2026-06-11 04:23:52,2026-06-16 04:23:52,5.0
+389,Joseph Juarez,danielle08@example.org,Payment Issue,Low,Resolved,James,2026-06-27 23:53:49,2026-07-01 23:53:49,1.0
+390,Cheryl Summers,jasonhubbard@example.com,Login Problem,High,Closed,Alice,2026-05-03 01:16:36,2026-05-10 01:16:36,1.0
+391,Christopher Anderson,robertdelgado@example.com,Account Locked,High,In Progress,David,2026-05-05 01:30:47,,
+392,Joel Stuart,hwilliams@example.org,Subscription Cancellation,Critical,Closed,David,2026-04-13 13:20:59,2026-04-16 13:20:59,2.0
+393,Joanne Brown,garciacathy@example.org,Order Delay,Critical,Open,Bob,2026-05-06 05:48:05,,
+394,Ebony Park,sknight@example.org,Login Problem,High,Open,Charlie,2026-05-02 00:22:08,,
+395,William King,kristen70@example.com,Order Delay,Medium,Resolved,Alice,2026-06-02 15:01:31,2026-06-12 15:01:31,4.0
+396,Latoya Anderson,vmartinez@example.org,Product Defect,Critical,In Progress,David,2026-06-19 07:05:14,,
+397,Brittany Butler MD,jonathan52@example.org,Login Problem,Critical,Open,Bob,2026-06-15 08:44:14,,
+398,Brenda Silva,kelly53@example.net,Refund Request,Critical,Resolved,Charlie,2026-06-10 02:45:36,2026-06-17 02:45:36,2.0
+399,Ronnie Miller,josephtucker@example.net,Shipping Issue,High,Resolved,David,2026-04-16 06:08:07,2026-04-26 06:08:07,2.0
+400,Regina Cunningham,scottfrank@example.org,Shipping Issue,Low,Open,Charlie,2026-06-30 02:22:33,,
+401,Rebecca Hoffman,bgraham@example.org,Subscription Cancellation,Medium,In Progress,Emma,2026-05-31 11:06:25,,
+402,Carrie Lopez,imaddox@example.com,Refund Request,Low,Resolved,Emma,2026-06-13 15:00:19,2026-06-15 15:00:19,3.0
+403,Cory Foster,halltracy@example.org,Order Delay,Low,Resolved,Alice,2026-05-12 10:15:40,2026-05-14 10:15:40,1.0
+404,Mary Keller,jack89@example.com,Payment Issue,Medium,In Progress,Charlie,2026-04-13 01:00:06,,
+405,Justin Cochran,johnsonnicholas@example.org,Shipping Issue,High,Open,James,2026-05-19 20:13:15,,
+406,Susan Mcbride,tpitts@example.com,Refund Request,High,Open,Michael,2026-04-30 16:59:07,,
+407,Christopher Acosta,kcoleman@example.net,Subscription Cancellation,High,Open,Alice,2026-04-09 23:32:40,,
+408,Rachel Taylor,tammybailey@example.org,Shipping Issue,Medium,Closed,Charlie,2026-07-04 00:47:58,2026-07-07 00:47:58,4.0
+409,Samuel Davis,mauricegreen@example.com,Account Locked,Medium,Closed,Emma,2026-05-26 23:18:08,2026-05-28 23:18:08,3.0
+410,Michael Casey,jennifermitchell@example.net,Subscription Cancellation,Low,Closed,Bob,2026-05-02 03:58:15,2026-05-09 03:58:15,2.0
+411,Ariana Adams,jameswhitaker@example.net,Order Delay,High,In Progress,Michael,2026-04-08 15:52:35,,
+412,Melissa Clarke,davidpearson@example.org,Order Delay,Low,In Progress,Emma,2026-06-20 07:10:12,,
+413,Jeff Burns,natasha83@example.net,Shipping Issue,Critical,Closed,James,2026-04-20 17:02:59,2026-04-28 17:02:59,5.0
+414,Amanda Reyes,igraham@example.com,Login Problem,High,Open,Michael,2026-04-29 14:03:15,,
+415,Anne Snyder,alexanderramirez@example.net,Payment Issue,Critical,Open,Emma,2026-05-17 16:44:58,,
+416,Miss Martha Willis MD,wardnancy@example.net,Login Problem,Critical,Open,Emma,2026-05-13 00:43:09,,
+417,Andrea Carson,zfuller@example.net,Login Problem,Medium,Open,Charlie,2026-05-13 23:43:49,,
+418,John Luna,dominguezrobert@example.com,Order Delay,Critical,In Progress,Alice,2026-04-11 01:26:16,,
+419,Christopher Thomas,megankelly@example.net,Product Defect,Critical,Open,Charlie,2026-05-18 17:19:45,,
+420,Christopher Aguilar,elizabethjacobson@example.net,Subscription Cancellation,High,In Progress,Sophia,2026-06-07 04:24:32,,
+421,Courtney Gonzales,teresa45@example.net,Subscription Cancellation,Low,Resolved,Bob,2026-04-07 03:05:19,2026-04-08 03:05:19,3.0
+422,Maria May,wherman@example.org,Subscription Cancellation,Low,Resolved,Bob,2026-04-09 22:05:04,2026-04-10 22:05:04,1.0
+423,James Bryant,rebeccasmith@example.com,Account Locked,Low,Closed,Bob,2026-06-08 17:21:02,2026-06-13 17:21:02,5.0
+424,Tammy Dorsey,herringsummer@example.net,Subscription Cancellation,Critical,Closed,Sophia,2026-06-08 06:26:25,2026-06-11 06:26:25,1.0
+425,Alicia Crawford,gfields@example.com,Account Locked,Medium,In Progress,David,2026-05-29 11:45:31,,
+426,Nicolas Jimenez,ftaylor@example.net,Login Problem,High,Closed,James,2026-04-26 08:04:50,2026-04-27 08:04:50,5.0
+427,Richard Simmons,pshaw@example.net,Account Locked,Critical,Closed,Bob,2026-04-18 11:12:37,2026-04-24 11:12:37,5.0
+428,Christy Davis,amendez@example.org,Product Defect,Critical,In Progress,James,2026-06-19 22:29:34,,
+429,Michael Barnes,uhiggins@example.net,Product Defect,Medium,Closed,David,2026-05-27 05:43:22,2026-06-02 05:43:22,4.0
+430,Richard Martin,wrightjessica@example.net,Shipping Issue,Medium,Resolved,Sophia,2026-06-09 20:49:04,2026-06-17 20:49:04,2.0
+431,Donna Perez,jasoncarney@example.org,Shipping Issue,High,Resolved,Bob,2026-06-08 22:55:20,2026-06-09 22:55:20,5.0
+432,Catherine Barber,daniellegutierrez@example.com,Payment Issue,Medium,Open,Bob,2026-06-08 12:21:08,,
+433,James Mendez,ecarrillo@example.com,Shipping Issue,Medium,Resolved,Alice,2026-05-30 14:06:22,2026-06-01 14:06:22,1.0
+434,James Jones PhD,wilkersonamber@example.net,Login Problem,Critical,Resolved,Bob,2026-05-19 09:29:03,2026-05-22 09:29:03,4.0
+435,Joseph Cooley,daniel10@example.net,Order Delay,Critical,Open,Charlie,2026-05-10 19:01:14,,
+436,Christopher Thornton,vlong@example.com,Product Defect,Low,Resolved,Bob,2026-04-09 07:37:34,2026-04-15 07:37:34,3.0
+437,Andrea Levine,ymolina@example.com,Login Problem,Medium,Resolved,Alice,2026-06-06 10:28:33,2026-06-12 10:28:33,2.0
+438,Debbie Raymond,shafferconnie@example.org,Shipping Issue,Low,In Progress,Sophia,2026-06-30 02:37:22,,
+439,Nicholas Dixon,vmitchell@example.org,Product Defect,Low,Resolved,Bob,2026-05-02 00:42:16,2026-05-03 00:42:16,4.0
+440,Taylor Henson,hensleyamber@example.net,Product Defect,Low,Open,James,2026-05-30 01:37:59,,
+441,Joseph Brown,colevanessa@example.com,Login Problem,Medium,In Progress,Alice,2026-04-24 12:13:10,,
+442,Alejandra Fox,john48@example.org,Subscription Cancellation,Low,In Progress,David,2026-05-22 23:58:39,,
+443,Christopher Phillips,james64@example.com,Account Locked,Low,Open,Bob,2026-04-19 05:55:19,,
+444,Lisa Johnson,laurabrown@example.net,Login Problem,Medium,Open,James,2026-04-09 04:10:32,,
+445,Melissa Hart,georgerivers@example.net,Product Defect,Medium,Resolved,Charlie,2026-05-18 22:54:06,2026-05-26 22:54:06,5.0
+446,Jordan Wyatt,lauramunoz@example.net,Payment Issue,Critical,Closed,Bob,2026-05-11 09:19:42,2026-05-17 09:19:42,4.0
+447,Kyle Price,joshuadavis@example.net,Shipping Issue,Critical,Open,Bob,2026-06-08 17:39:35,,
+448,Judy Romero,kellythomas@example.com,Payment Issue,Critical,Open,Emma,2026-05-26 07:03:18,,
+449,Karen Brandt,susanwhite@example.org,Order Delay,Critical,Resolved,Alice,2026-05-21 22:46:28,2026-05-31 22:46:28,3.0
+450,Laura Moore,uwang@example.com,Account Locked,Low,Resolved,Sophia,2026-06-05 23:57:57,2026-06-08 23:57:57,2.0
+451,Terry Boyer,richardfoster@example.com,Shipping Issue,Critical,Resolved,Bob,2026-06-08 02:50:25,2026-06-17 02:50:25,3.0
+452,Tyler Guzman,tylerrivera@example.net,Product Defect,Low,Resolved,David,2026-05-21 20:05:18,2026-05-24 20:05:18,3.0
+453,Angela Ferguson,mwolf@example.org,Order Delay,Low,Closed,David,2026-06-22 10:48:10,2026-07-02 10:48:10,5.0
+454,Maria Black,kimberlygraham@example.com,Shipping Issue,Low,Closed,Emma,2026-07-01 22:40:49,2026-07-10 22:40:49,3.0
+455,Brian Ramirez,allisonwilkins@example.net,Product Defect,High,In Progress,Bob,2026-05-31 11:17:32,,
+456,John Diaz,harrissandra@example.org,Refund Request,High,Open,Charlie,2026-05-09 15:25:32,,
+457,Brittany Tucker,balljose@example.com,Refund Request,High,Resolved,David,2026-06-20 20:11:18,2026-06-27 20:11:18,4.0
+458,Katherine Robinson,jeremyperez@example.org,Account Locked,Medium,Open,Charlie,2026-06-28 05:18:21,,
+459,Katherine Mccarthy,tiffanycuevas@example.net,Order Delay,Medium,In Progress,Alice,2026-05-13 17:43:44,,
+460,Vanessa Keller,tracey93@example.com,Product Defect,Critical,Open,James,2026-05-19 08:16:25,,
+461,Christopher Quinn,smithmarcus@example.org,Shipping Issue,Low,In Progress,David,2026-06-01 12:58:10,,
+462,Samantha Smith,ijohnson@example.org,Login Problem,Low,Resolved,Sophia,2026-05-21 22:04:18,2026-05-31 22:04:18,2.0
+463,Christine Lucero,jared81@example.net,Account Locked,Low,Closed,Bob,2026-04-17 19:24:26,2026-04-25 19:24:26,1.0
+464,Patrick Fernandez,simsdennis@example.org,Account Locked,Medium,Open,Emma,2026-05-10 18:52:55,,
+465,Melissa Maddox,christophersmith@example.com,Shipping Issue,Low,Open,Charlie,2026-06-26 18:22:37,,
+466,Roy Gomez,robinsonlauren@example.com,Refund Request,Critical,Resolved,Alice,2026-05-31 00:36:29,2026-06-06 00:36:29,4.0
+467,Randy Boyd,kevin40@example.org,Subscription Cancellation,Critical,In Progress,Alice,2026-04-28 00:05:19,,
+468,Michelle Barber,stevengonzalez@example.org,Account Locked,Medium,Open,Bob,2026-05-05 03:59:33,,
+469,Alicia Thompson,kmoore@example.org,Order Delay,Critical,Open,David,2026-04-28 19:03:59,,
+470,Steven Yu,vancekeith@example.org,Payment Issue,High,Resolved,Charlie,2026-06-26 07:28:25,2026-07-02 07:28:25,2.0
+471,Joan Martin,christensensarah@example.com,Login Problem,High,Closed,Bob,2026-04-06 08:55:14,2026-04-16 08:55:14,5.0
+472,Kayla Rogers,camposrebecca@example.com,Product Defect,High,Open,James,2026-06-25 22:06:13,,
+473,Douglas Hernandez,leebryan@example.net,Login Problem,Low,Open,David,2026-06-13 16:12:37,,
+474,Brittany Martin,sarahrobinson@example.net,Product Defect,High,Closed,Alice,2026-05-31 14:33:33,2026-06-02 14:33:33,2.0
+475,Jonathan Arnold,shannon86@example.org,Order Delay,Medium,Closed,David,2026-06-12 20:48:21,2026-06-22 20:48:21,2.0
+476,Justin Flynn,kayla79@example.com,Order Delay,Low,Closed,James,2026-05-22 04:46:02,2026-05-25 04:46:02,3.0
+477,Christine Robinson,zfinley@example.net,Order Delay,High,Open,Bob,2026-05-09 10:28:21,,
+478,Alexander Jones,kstewart@example.org,Refund Request,High,In Progress,Sophia,2026-05-03 01:32:50,,
+479,Lori Jones,natalie38@example.net,Order Delay,High,In Progress,David,2026-04-08 02:19:00,,
+480,Gary Evans,johnjackson@example.net,Shipping Issue,Medium,Closed,Emma,2026-04-26 22:56:37,2026-05-03 22:56:37,2.0
+481,Lori Taylor,odavis@example.com,Order Delay,Low,Open,David,2026-05-06 19:24:41,,
+482,Sandra Henson,heather70@example.net,Refund Request,High,Closed,Sophia,2026-04-30 05:20:38,2026-05-06 05:20:38,1.0
+483,Elizabeth Pineda,zmason@example.org,Account Locked,Critical,Resolved,James,2026-06-17 21:47:28,2026-06-25 21:47:28,3.0
+484,Gina Lopez,hannah27@example.net,Shipping Issue,Medium,Closed,Bob,2026-06-17 18:11:10,2026-06-23 18:11:10,1.0
+485,Scott Nash,mrojas@example.net,Payment Issue,High,Open,Emma,2026-06-26 10:58:16,,
+486,Lindsay Clayton,currykatherine@example.net,Refund Request,Low,In Progress,James,2026-04-25 18:26:39,,
+487,Lori Clements,elizabethguzman@example.org,Product Defect,Critical,Resolved,David,2026-04-23 12:18:50,2026-05-01 12:18:50,5.0
+488,Bruce Armstrong,vpalmer@example.org,Account Locked,High,Closed,Bob,2026-07-04 10:50:34,2026-07-07 10:50:34,4.0
+489,Franklin Adkins,imartinez@example.net,Product Defect,Low,Resolved,Emma,2026-06-12 08:36:38,2026-06-21 08:36:38,4.0
+490,Susan Miller,sharon15@example.org,Subscription Cancellation,Critical,Open,Alice,2026-05-22 12:58:56,,
+491,Courtney Park,aliadam@example.net,Refund Request,Low,Open,James,2026-05-08 06:08:36,,
+492,Jesse Griffith,charles64@example.net,Refund Request,Medium,Open,Charlie,2026-05-15 12:26:51,,
+493,Angela Thompson,thomas76@example.org,Order Delay,High,In Progress,Michael,2026-05-21 16:17:47,,
+494,Daniel Mendez,jesse43@example.net,Order Delay,Critical,Open,Charlie,2026-06-09 21:04:29,,
+495,William Fox,emilymorton@example.net,Shipping Issue,Low,Resolved,Michael,2026-04-06 22:15:57,2026-04-16 22:15:57,4.0
+496,Suzanne Powell,ryan92@example.net,Refund Request,High,In Progress,Michael,2026-05-24 16:35:34,,
+497,Desiree Mayo,hillronald@example.org,Account Locked,Medium,In Progress,Charlie,2026-05-13 16:29:39,,
+498,David Joyce,jasonzuniga@example.net,Login Problem,Medium,Open,Sophia,2026-05-13 14:05:16,,
+499,James Burton,staceydiaz@example.net,Subscription Cancellation,High,Open,Emma,2026-05-16 01:21:00,,
+500,Whitney Cowan,zhahn@example.net,Refund Request,Medium,Closed,David,2026-05-21 11:32:10,2026-05-25 11:32:10,5.0
+501,Jennifer Allen,daniel63@example.net,Account Locked,Critical,Closed,David,2026-04-11 16:47:11,2026-04-12 16:47:11,2.0
+502,Steven Reyes DDS,scampbell@example.net,Subscription Cancellation,High,In Progress,Sophia,2026-06-06 18:26:49,,
+503,Kathleen Porter,townsendrobert@example.net,Account Locked,Critical,Resolved,Michael,2026-06-08 01:36:37,2026-06-09 01:36:37,3.0
+504,Bridget Burke,higginssusan@example.net,Subscription Cancellation,High,Resolved,James,2026-05-12 14:20:04,2026-05-21 14:20:04,2.0
+505,Thomas Costa,amyadams@example.org,Product Defect,High,Open,Bob,2026-06-11 08:49:18,,
+506,Maria Duncan,bradmoore@example.org,Product Defect,Critical,Closed,James,2026-06-25 16:34:56,2026-07-01 16:34:56,3.0
+507,Tracy Hernandez,ymitchell@example.net,Product Defect,Low,Resolved,Alice,2026-04-26 07:59:44,2026-04-29 07:59:44,5.0
+508,Kathleen Underwood,tristangray@example.org,Order Delay,High,In Progress,Charlie,2026-05-22 00:01:20,,
+509,Joseph Braun,wendy81@example.com,Subscription Cancellation,Medium,In Progress,James,2026-05-13 09:30:17,,
+510,Angel Lawson,kwilliams@example.com,Refund Request,Low,Resolved,Bob,2026-06-10 05:08:18,2026-06-12 05:08:18,3.0
+511,Sean Odonnell,smithcatherine@example.com,Order Delay,Critical,In Progress,Emma,2026-05-26 05:15:40,,
+512,Lisa York MD,nicole22@example.com,Subscription Cancellation,Medium,Open,Charlie,2026-06-08 16:23:55,,
+513,Jennifer Harrison,kellygarrett@example.net,Product Defect,Low,Open,Sophia,2026-05-27 14:21:18,,
+514,Dean Fleming,therrera@example.com,Login Problem,High,Resolved,James,2026-06-23 21:48:57,2026-06-27 21:48:57,3.0
+515,Amber Irwin,scarroll@example.com,Product Defect,Medium,In Progress,Sophia,2026-05-18 18:32:34,,
+516,James Cline,jenniferrose@example.org,Product Defect,Medium,Open,James,2026-04-06 18:26:00,,
+517,Ruben Roberts,brennandennis@example.org,Payment Issue,High,Open,David,2026-04-06 00:43:49,,
+518,Rhonda Murphy,johnyoung@example.net,Order Delay,Low,Open,Alice,2026-05-13 01:37:35,,
+519,Derek Boyd,james50@example.com,Shipping Issue,Medium,In Progress,Charlie,2026-06-19 05:56:17,,
+520,Martha Mays,jodyobrien@example.com,Product Defect,Low,Closed,Charlie,2026-06-14 11:01:38,2026-06-15 11:01:38,1.0
+521,Sydney Simon,olivia65@example.org,Subscription Cancellation,Medium,In Progress,James,2026-06-05 11:50:27,,
+522,Joseph Swanson,jfranco@example.net,Refund Request,Low,Resolved,David,2026-05-08 13:35:09,2026-05-09 13:35:09,1.0
+523,Alicia Johns,gball@example.org,Payment Issue,Critical,Closed,David,2026-06-16 09:49:21,2026-06-19 09:49:21,3.0
+524,Sara Valenzuela,srosario@example.org,Order Delay,Medium,In Progress,David,2026-05-19 21:33:47,,
+525,Katrina Weaver,craig17@example.net,Product Defect,Critical,In Progress,Michael,2026-05-14 19:03:41,,
+526,Linda Thompson,jamesphelps@example.org,Product Defect,Low,Closed,James,2026-06-07 11:39:58,2026-06-12 11:39:58,3.0
+527,Benjamin Fisher,underwoodjoe@example.net,Refund Request,Medium,Open,Emma,2026-04-17 02:04:48,,
+528,Kim Soto,swyatt@example.net,Account Locked,High,Closed,James,2026-05-04 21:17:23,2026-05-05 21:17:23,3.0
+529,Patricia Perez,ffisher@example.com,Login Problem,Critical,In Progress,Charlie,2026-04-25 01:34:25,,
+530,Scott Adams,morrisbenjamin@example.org,Subscription Cancellation,Critical,Resolved,Michael,2026-06-06 10:55:20,2026-06-11 10:55:20,2.0
+531,Nathan Grimes,ashleynixon@example.net,Subscription Cancellation,High,Open,Charlie,2026-05-06 22:06:09,,
+532,Craig Stone,fwilliams@example.org,Shipping Issue,High,In Progress,David,2026-06-16 02:57:55,,
+533,Jeremy Hughes,stephanie29@example.com,Order Delay,Critical,Open,Michael,2026-04-12 15:20:07,,
+534,Shane Perry,theresa97@example.com,Order Delay,Critical,In Progress,Michael,2026-05-23 09:52:35,,
+535,Dr. Kevin Garcia DVM,jennifer82@example.net,Order Delay,Low,In Progress,David,2026-05-17 06:03:10,,
+536,Nathan Morse,robertthompson@example.org,Order Delay,High,Open,Charlie,2026-05-10 16:31:50,,
+537,Ashley Murray,dwright@example.com,Product Defect,Low,Resolved,Alice,2026-06-04 18:55:57,2026-06-05 18:55:57,1.0
+538,Sabrina Ware,millersheri@example.net,Shipping Issue,High,Open,Sophia,2026-06-04 15:34:38,,
+539,John Mejia PhD,michealgonzalez@example.org,Product Defect,High,Resolved,David,2026-06-28 10:10:45,2026-07-06 10:10:45,1.0
+540,Danny Rowland,brandon90@example.com,Login Problem,Low,Open,Michael,2026-04-10 06:50:23,,
+541,Lynn Henderson,walkerleroy@example.org,Payment Issue,High,Resolved,Emma,2026-04-21 18:10:48,2026-04-29 18:10:48,3.0
+542,Michele Patterson,janet56@example.com,Payment Issue,Critical,Open,Charlie,2026-06-15 21:03:29,,
+543,Christine Bradley,laura19@example.org,Account Locked,High,Closed,David,2026-06-14 12:15:30,2026-06-16 12:15:30,2.0
+544,Carl Leonard,evelyn96@example.com,Refund Request,Low,Resolved,James,2026-06-26 21:51:25,2026-07-03 21:51:25,2.0
+545,David Owens,holmesdavid@example.org,Product Defect,Low,Resolved,Alice,2026-05-19 20:08:55,2026-05-28 20:08:55,5.0
+546,Melanie Potter,peter21@example.com,Refund Request,Medium,Closed,Emma,2026-04-26 10:44:59,2026-05-06 10:44:59,5.0
+547,Jodi Kirk,wmyers@example.com,Shipping Issue,High,In Progress,David,2026-06-03 23:06:51,,
+548,Kristy Sanchez,jpatterson@example.net,Product Defect,High,Resolved,Charlie,2026-06-23 00:15:03,2026-07-03 00:15:03,2.0
+549,Zachary Brown,elizabethrobinson@example.org,Subscription Cancellation,Critical,Closed,James,2026-04-11 12:44:58,2026-04-19 12:44:58,3.0
+550,Robert Griffin,stewartronald@example.org,Refund Request,Medium,Resolved,Charlie,2026-06-08 16:18:08,2026-06-17 16:18:08,3.0
+551,Michelle Erickson,ffrederick@example.org,Payment Issue,Critical,Open,Alice,2026-04-06 05:43:21,,
+552,Janet York,hallanthony@example.com,Subscription Cancellation,Medium,Closed,Bob,2026-04-24 15:24:40,2026-05-04 15:24:40,1.0
+553,Michael Ramirez,hhines@example.com,Order Delay,Low,In Progress,Michael,2026-06-05 07:21:48,,
+554,Phyllis Morrow,xsimmons@example.com,Payment Issue,Critical,Open,James,2026-04-14 03:05:13,,
+555,Paul Gibbs,wmcneil@example.net,Order Delay,Low,Closed,Michael,2026-05-09 14:30:26,2026-05-19 14:30:26,2.0
+556,Brian Lambert,tfarley@example.com,Account Locked,Low,Closed,Sophia,2026-06-26 11:29:09,2026-06-29 11:29:09,3.0
+557,Brittany Jones,jasonsimmons@example.org,Product Defect,High,Open,James,2026-06-21 20:51:11,,
+558,Carol Patel,tonirussell@example.org,Login Problem,Medium,Open,James,2026-05-06 11:16:33,,
+559,Dennis Lucas,michaelhall@example.com,Login Problem,Low,Open,David,2026-05-19 09:03:44,,
+560,Timothy Watson,igibson@example.org,Login Problem,High,Closed,Alice,2026-04-23 20:24:13,2026-04-25 20:24:13,4.0
+561,Christopher Tucker,adam00@example.net,Account Locked,High,In Progress,David,2026-05-14 03:45:17,,
+562,Laura Gomez,gharrison@example.org,Refund Request,Medium,Open,Alice,2026-04-30 19:39:33,,
+563,Kelli Brown,aaronbrooks@example.net,Login Problem,Critical,In Progress,Alice,2026-04-22 22:27:27,,
+564,Drew Fields,john07@example.com,Refund Request,Low,Open,Emma,2026-04-18 14:20:18,,
+565,Mark Mayer,crystal57@example.com,Product Defect,Low,Closed,Bob,2026-05-06 04:38:39,2026-05-09 04:38:39,5.0
+566,Adrian Baker,bonillathomas@example.com,Shipping Issue,Low,Open,Sophia,2026-07-01 19:51:15,,
+567,Tina Ray,wtodd@example.com,Account Locked,Low,In Progress,Emma,2026-05-11 09:29:48,,
+568,Karla Mitchell,michael01@example.org,Subscription Cancellation,High,In Progress,Emma,2026-06-28 20:32:44,,
+569,Antonio Simpson,ymoore@example.net,Subscription Cancellation,Critical,Closed,James,2026-05-02 00:48:57,2026-05-10 00:48:57,4.0
+570,Cynthia Mccarty,bwebb@example.com,Login Problem,Low,Closed,Charlie,2026-05-06 20:23:30,2026-05-10 20:23:30,1.0
+571,Tamara Mccullough,davidhughes@example.org,Product Defect,Low,In Progress,David,2026-06-26 08:44:11,,
+572,Michael Mullins,navarrosara@example.com,Payment Issue,High,Resolved,Sophia,2026-05-30 14:17:07,2026-06-06 14:17:07,4.0
+573,Robert Stephens,kellyflores@example.org,Login Problem,Critical,Resolved,Alice,2026-04-15 02:49:10,2026-04-17 02:49:10,3.0
+574,Samuel Jones,tiffanyshaw@example.com,Product Defect,Critical,Open,Sophia,2026-05-09 12:29:36,,
+575,Jeffrey Whitehead,amydrake@example.com,Login Problem,Critical,Closed,David,2026-04-23 10:14:02,2026-05-03 10:14:02,4.0
+576,Katie Miller,james98@example.net,Shipping Issue,Critical,Resolved,Michael,2026-06-20 22:52:57,2026-06-22 22:52:57,4.0
+577,Chelsea Salazar,powersdebra@example.net,Product Defect,Low,In Progress,Bob,2026-06-13 10:39:02,,
+578,Katherine Hurley,corey01@example.com,Shipping Issue,Medium,Closed,David,2026-04-18 16:17:37,2026-04-26 16:17:37,4.0
+579,Patricia Henry,lambertamy@example.org,Refund Request,High,Closed,Charlie,2026-04-11 18:23:31,2026-04-15 18:23:31,2.0
+580,Jacob Miles,clarkbradley@example.org,Account Locked,Critical,Open,Alice,2026-05-03 13:46:42,,
+581,Sharon Atkinson,veronica38@example.org,Payment Issue,Medium,Resolved,Bob,2026-06-24 11:03:07,2026-06-30 11:03:07,3.0
+582,Jason Hardy,rodriguezdebbie@example.org,Shipping Issue,Medium,In Progress,Alice,2026-05-05 17:53:19,,
+583,Anthony Cooper,carlagibson@example.com,Refund Request,Medium,Resolved,Sophia,2026-06-10 02:58:25,2026-06-19 02:58:25,4.0
+584,Eugene Rivera,balvarez@example.com,Login Problem,High,Resolved,James,2026-05-18 18:23:17,2026-05-27 18:23:17,5.0
+585,Maurice Little MD,hgreen@example.org,Subscription Cancellation,Medium,Open,Charlie,2026-06-11 13:22:39,,
+586,Whitney Serrano,michelle88@example.com,Subscription Cancellation,Critical,Resolved,James,2026-04-13 23:01:57,2026-04-14 23:01:57,2.0
+587,Philip Wells,garzadavid@example.net,Payment Issue,Low,Resolved,James,2026-04-08 17:51:27,2026-04-14 17:51:27,4.0
+588,Todd Barrera,rodriguezedward@example.net,Account Locked,Medium,Open,David,2026-06-16 08:51:29,,
+589,Brian Krause,tammy18@example.org,Account Locked,Critical,In Progress,Sophia,2026-04-05 18:25:10,,
+590,Amy Escobar,derek99@example.net,Order Delay,Medium,Resolved,Michael,2026-05-29 22:18:26,2026-06-03 22:18:26,4.0
+591,Christopher Hawkins,amyclark@example.com,Refund Request,Low,Resolved,Charlie,2026-07-01 21:58:16,2026-07-05 21:58:16,5.0
+592,Linda Bowman,judithlove@example.org,Login Problem,Critical,Resolved,David,2026-04-08 05:32:30,2026-04-15 05:32:30,4.0
+593,Amanda Turner,baileyjennifer@example.net,Account Locked,Low,Resolved,James,2026-04-22 16:50:22,2026-04-30 16:50:22,1.0
+594,Jessica Copeland,pamela92@example.net,Login Problem,Critical,Closed,Bob,2026-05-16 13:53:36,2026-05-25 13:53:36,2.0
+595,Katie Martinez,zachary47@example.net,Order Delay,High,Resolved,Charlie,2026-05-25 11:07:34,2026-06-03 11:07:34,5.0
+596,Timothy Wilson,isaac25@example.net,Product Defect,Critical,Open,Bob,2026-04-07 04:43:43,,
+597,Angie Fleming,qreyes@example.com,Subscription Cancellation,Critical,In Progress,Alice,2026-05-14 11:57:50,,
+598,Robert Ruiz,barronroy@example.net,Login Problem,Critical,Open,Bob,2026-06-27 17:23:02,,
+599,Jennifer Underwood,russellanderson@example.org,Account Locked,Low,Open,Alice,2026-05-02 19:09:11,,
+600,Jeff Hamilton,gregg07@example.org,Payment Issue,Low,Closed,Emma,2026-04-26 23:04:43,2026-05-02 23:04:43,5.0
+601,Richard Klein,cynthiamyers@example.net,Account Locked,Medium,In Progress,Charlie,2026-04-19 17:14:34,,
+602,Lisa Roberts,holmesdawn@example.com,Product Defect,Medium,In Progress,Charlie,2026-05-02 22:12:07,,
+603,Alicia Miller,jjoseph@example.net,Payment Issue,High,Closed,David,2026-05-01 05:42:02,2026-05-06 05:42:02,3.0
+604,Mrs. Leah Cervantes DVM,hschultz@example.com,Subscription Cancellation,High,Open,Alice,2026-04-09 10:04:12,,
+605,Tony Schwartz,rlopez@example.org,Product Defect,High,In Progress,Charlie,2026-07-01 15:15:23,,
+606,Michael Mason,nathanielgreen@example.net,Subscription Cancellation,Medium,Resolved,David,2026-04-16 23:24:26,2026-04-21 23:24:26,5.0
+607,Jason Jackson,williammatthews@example.net,Subscription Cancellation,Low,Closed,Sophia,2026-05-28 06:56:25,2026-05-31 06:56:25,1.0
+608,Timothy Gonzales,roberta20@example.org,Subscription Cancellation,High,Open,Charlie,2026-04-17 16:23:41,,
+609,William Johnson,mark84@example.org,Product Defect,High,Open,Emma,2026-05-20 05:09:04,,
+610,David Hampton,lorisantos@example.org,Payment Issue,Medium,Closed,Bob,2026-06-03 06:32:58,2026-06-04 06:32:58,1.0
+611,Mrs. Selena Rice,ajohnston@example.net,Order Delay,Medium,Open,Alice,2026-06-13 00:03:43,,
+612,Amanda Acosta,sherryhodges@example.com,Account Locked,High,Closed,James,2026-06-05 08:40:33,2026-06-11 08:40:33,2.0
+613,Heather Phillips,wgeorge@example.com,Order Delay,Critical,Closed,Michael,2026-05-18 21:54:15,2026-05-22 21:54:15,2.0
+614,Erika Mitchell,melissaandrade@example.com,Account Locked,High,In Progress,Michael,2026-06-20 02:40:27,,
+615,Ian Durham,bjordan@example.net,Subscription Cancellation,Critical,In Progress,Emma,2026-04-08 09:15:36,,
+616,Jennifer White,xroberts@example.net,Subscription Cancellation,Low,In Progress,Michael,2026-06-04 15:51:57,,
+617,Robert Boyd MD,dawnjohnson@example.net,Payment Issue,Critical,In Progress,Bob,2026-04-30 07:08:33,,
+618,William Stanley,ccarter@example.org,Order Delay,Critical,Closed,Charlie,2026-05-23 21:29:15,2026-05-29 21:29:15,4.0
+619,Angela Shaw,darrell35@example.net,Subscription Cancellation,Low,In Progress,Bob,2026-06-23 04:25:53,,
+620,Anne Hart,qcole@example.org,Subscription Cancellation,Low,In Progress,David,2026-06-04 20:12:23,,
+621,Chris Ellis DDS,kristinprice@example.org,Product Defect,Low,Resolved,Bob,2026-05-04 00:02:42,2026-05-07 00:02:42,2.0
+622,Jeffery Carter,jeremyhawkins@example.net,Account Locked,Medium,Closed,Emma,2026-05-01 08:50:44,2026-05-06 08:50:44,3.0
+623,Jose Stokes,alisonchen@example.net,Account Locked,High,Open,Alice,2026-04-08 13:08:56,,
+624,Michele Best,kingmichael@example.net,Product Defect,Critical,Resolved,Bob,2026-05-14 20:05:57,2026-05-24 20:05:57,2.0
+625,Alicia Levine,kellymiller@example.com,Product Defect,Medium,In Progress,Emma,2026-04-28 17:08:05,,
+626,Johnny Hart,edwardking@example.org,Subscription Cancellation,Medium,Resolved,David,2026-04-27 13:37:11,2026-05-01 13:37:11,1.0
+627,James Rice,jennifer75@example.org,Login Problem,Medium,Resolved,Emma,2026-05-30 00:05:16,2026-06-03 00:05:16,2.0
+628,Natalie Jordan,oconnorandrew@example.org,Payment Issue,Low,Open,David,2026-05-18 12:07:55,,
+629,Dr. Dwayne Aguirre,adamsmary@example.org,Subscription Cancellation,Medium,Open,Emma,2026-05-15 05:51:42,,
+630,Theresa Gray,rachel06@example.net,Product Defect,Medium,In Progress,Bob,2026-06-05 13:33:59,,
+631,Laura Duncan,vgarcia@example.org,Order Delay,Critical,Resolved,Michael,2026-06-04 06:52:21,2026-06-13 06:52:21,3.0
+632,Misty Smith,rodneyjohnson@example.org,Login Problem,High,Resolved,Bob,2026-04-19 16:40:13,2026-04-24 16:40:13,5.0
+633,Lauren Garcia,robertsjonathan@example.org,Shipping Issue,Low,Closed,Alice,2026-04-09 21:04:45,2026-04-17 21:04:45,5.0
+634,Walter Ross,kaguilar@example.com,Shipping Issue,Medium,Resolved,Emma,2026-04-22 17:05:47,2026-04-24 17:05:47,3.0
+635,Pamela Becker,sanforddevon@example.org,Payment Issue,High,Closed,David,2026-05-02 20:06:09,2026-05-08 20:06:09,3.0
+636,Alexander Crawford,kchavez@example.net,Refund Request,Critical,Open,Sophia,2026-04-14 23:02:29,,
+637,Heather Dodson,kevin43@example.org,Payment Issue,Low,Closed,James,2026-06-15 02:01:31,2026-06-24 02:01:31,1.0
+638,Sherry Palmer,morriskristina@example.org,Login Problem,High,Resolved,David,2026-05-14 04:03:53,2026-05-16 04:03:53,2.0
+639,Amy Higgins,millermelanie@example.org,Order Delay,Low,Closed,David,2026-04-13 21:15:02,2026-04-19 21:15:02,5.0
+640,James Jackson,stephaniebooker@example.net,Payment Issue,High,Open,Charlie,2026-06-10 17:04:34,,
+641,Michael Cervantes,betty41@example.org,Subscription Cancellation,Low,Resolved,Charlie,2026-04-30 03:37:33,2026-05-01 03:37:33,4.0
+642,Dana Clements,pcobb@example.net,Account Locked,Low,Open,Emma,2026-05-16 13:28:10,,
+643,Joshua Case,gonzalespatrick@example.org,Login Problem,Medium,Open,James,2026-04-13 01:15:10,,
+644,Anthony Powell,danielanderson@example.org,Subscription Cancellation,Medium,Resolved,Sophia,2026-06-24 23:26:31,2026-07-02 23:26:31,2.0
+645,Brooke Munoz,gardnerkatherine@example.org,Account Locked,Medium,Open,David,2026-05-13 06:00:48,,
+646,Julia Rodgers,rmitchell@example.net,Order Delay,Critical,Resolved,James,2026-05-04 05:57:18,2026-05-06 05:57:18,4.0
+647,Steven Anderson,nancycrane@example.org,Login Problem,High,Closed,Bob,2026-05-11 19:50:03,2026-05-18 19:50:03,1.0
+648,Jessica Wu,weavermicheal@example.com,Refund Request,Critical,Open,Michael,2026-05-13 03:15:34,,
+649,Jessica Joyce,ryan27@example.org,Product Defect,Low,Open,Alice,2026-05-16 05:44:00,,
+650,Taylor Morris,codywebb@example.com,Account Locked,Critical,Resolved,Alice,2026-04-21 15:59:32,2026-04-23 15:59:32,3.0
+651,Sean Dickson,lcruz@example.net,Refund Request,Medium,Closed,Sophia,2026-06-26 22:24:20,2026-07-05 22:24:20,3.0
+652,Tyrone Thompson,andrew43@example.net,Product Defect,High,In Progress,Alice,2026-04-14 10:31:30,,
+653,Curtis Reed,gloria13@example.org,Login Problem,Medium,Resolved,Charlie,2026-05-15 20:54:32,2026-05-25 20:54:32,3.0
+654,Christina Maddox,joseph37@example.net,Shipping Issue,High,Resolved,Charlie,2026-06-25 04:09:48,2026-07-03 04:09:48,3.0
+655,Scott Smith,mckayclaudia@example.com,Payment Issue,High,Resolved,James,2026-05-22 23:39:15,2026-05-23 23:39:15,1.0
+656,Teresa Foster,rebeccajohnson@example.com,Subscription Cancellation,Low,Closed,David,2026-05-16 10:33:51,2026-05-23 10:33:51,2.0
+657,Mary Murphy,qhopkins@example.com,Product Defect,Low,Open,David,2026-04-13 22:22:19,,
+658,Stephen Schultz,douglas20@example.net,Payment Issue,Critical,In Progress,Sophia,2026-04-29 19:44:06,,
+659,Melissa Smith,wwilson@example.org,Refund Request,High,Open,Michael,2026-04-06 04:10:53,,
+660,Ricardo Ritter,mary56@example.com,Product Defect,Low,In Progress,Charlie,2026-04-11 11:06:40,,
+661,Steven Delacruz,teresaharris@example.com,Subscription Cancellation,Critical,In Progress,David,2026-04-07 21:22:05,,
+662,Christopher Brown,kristi93@example.net,Login Problem,High,Resolved,Alice,2026-06-14 08:03:34,2026-06-15 08:03:34,2.0
+663,Amanda Green,jamiewagner@example.com,Product Defect,High,Closed,Charlie,2026-06-15 12:08:31,2026-06-22 12:08:31,4.0
+664,Jason Edwards,dwaynesmith@example.net,Account Locked,Low,In Progress,Alice,2026-06-30 16:27:38,,
+665,Laura Crawford,cheryldavis@example.com,Subscription Cancellation,Critical,In Progress,David,2026-06-20 15:23:52,,
+666,Zachary Moore,tamiclarke@example.net,Product Defect,Medium,Open,Bob,2026-04-20 19:56:06,,
+667,Steven Pearson,qsingleton@example.org,Order Delay,Critical,Resolved,David,2026-05-22 17:16:31,2026-06-01 17:16:31,3.0
+668,Brian Short,nicolas35@example.org,Order Delay,High,Closed,Emma,2026-06-08 06:31:41,2026-06-15 06:31:41,3.0
+669,Mark Hart,susan33@example.net,Refund Request,Medium,Open,David,2026-04-28 14:56:06,,
+670,Brittany Mejia,darellano@example.org,Shipping Issue,Critical,Closed,Alice,2026-06-18 00:17:43,2026-06-27 00:17:43,1.0
+671,Mrs. Christina Mills,douglaswillis@example.net,Account Locked,Medium,Open,Emma,2026-07-01 03:44:59,,
+672,Katherine Walker,traci65@example.net,Shipping Issue,Medium,Resolved,David,2026-04-22 02:48:07,2026-04-27 02:48:07,1.0
+673,Barbara Barker,bonnie90@example.org,Login Problem,Critical,Resolved,David,2026-05-09 01:06:59,2026-05-19 01:06:59,1.0
+674,Katherine Vaughn,thomasfrancis@example.com,Product Defect,Low,Closed,Sophia,2026-06-01 17:04:25,2026-06-08 17:04:25,1.0
+675,Richard Burnett,abbottjohn@example.net,Login Problem,High,Open,Emma,2026-04-19 07:39:09,,
+676,Troy Thomas,derrick67@example.com,Login Problem,Medium,In Progress,Emma,2026-05-29 19:54:51,,
+677,William Lam,starkapril@example.com,Order Delay,Low,In Progress,Emma,2026-04-28 19:43:33,,
+678,Erica Baker,caitlinmccarthy@example.net,Login Problem,High,Open,Sophia,2026-06-16 21:05:53,,
+679,Zoe Smith,benjamin15@example.com,Subscription Cancellation,Critical,Resolved,James,2026-06-10 18:23:55,2026-06-13 18:23:55,4.0
+680,Pamela Hoffman,smithteresa@example.org,Shipping Issue,Critical,In Progress,David,2026-05-11 18:27:50,,
+681,Tracy Jones,perezzachary@example.com,Refund Request,Medium,Open,David,2026-04-28 01:21:03,,
+682,Harold Montgomery,barrettwayne@example.org,Account Locked,Low,Resolved,Bob,2026-06-25 07:44:21,2026-07-01 07:44:21,5.0
+683,Christian Castro,qstone@example.com,Login Problem,Critical,Closed,Emma,2026-06-10 21:08:28,2026-06-15 21:08:28,5.0
+684,Melissa Kennedy,brandongillespie@example.net,Order Delay,Medium,Closed,Charlie,2026-05-15 18:59:35,2026-05-17 18:59:35,3.0
+685,Mr. Raymond Daniel,meganoconnor@example.org,Subscription Cancellation,Medium,In Progress,Alice,2026-06-01 05:32:39,,
+686,Joshua Jones,ubruce@example.net,Login Problem,Critical,Resolved,Bob,2026-04-19 06:21:27,2026-04-22 06:21:27,2.0
+687,Samuel Mitchell,james26@example.org,Refund Request,Critical,Open,James,2026-06-25 14:32:48,,
+688,Mark Hernandez,hilldana@example.net,Order Delay,Critical,In Progress,Charlie,2026-04-12 07:27:48,,
+689,Lauren Torres,stephanie84@example.com,Subscription Cancellation,Low,In Progress,David,2026-06-27 18:13:24,,
+690,Michelle Cross,aaron40@example.com,Shipping Issue,Critical,In Progress,David,2026-04-20 17:26:17,,
+691,Taylor Carney,jamiesmith@example.net,Subscription Cancellation,Critical,In Progress,David,2026-07-02 21:34:45,,
+692,Jasmine Whitehead,bcarpenter@example.net,Payment Issue,High,Closed,Michael,2026-06-05 00:56:55,2026-06-09 00:56:55,1.0
+693,Bryan Gray,bellzachary@example.net,Product Defect,High,Resolved,Emma,2026-05-07 03:30:20,2026-05-11 03:30:20,2.0
+694,Cindy Pratt,xmartinez@example.com,Order Delay,Low,Open,David,2026-07-03 00:30:47,,
+695,Susan Moore,fguzman@example.net,Refund Request,Medium,Closed,Sophia,2026-06-11 18:58:43,2026-06-20 18:58:43,3.0
+696,Jennifer Vega,matthew15@example.com,Shipping Issue,Medium,In Progress,Michael,2026-05-30 01:55:16,,
+697,Adam Smith,jonathanlawson@example.com,Subscription Cancellation,High,Resolved,James,2026-07-04 03:46:16,2026-07-11 03:46:16,2.0
+698,Robert Bowman,tfranklin@example.org,Refund Request,Low,Resolved,Charlie,2026-06-21 11:14:56,2026-06-27 11:14:56,5.0
+699,Johnny Keller,jonathannixon@example.com,Shipping Issue,Medium,In Progress,Sophia,2026-05-20 09:16:20,,
+700,Joseph Matthews,williamsxavier@example.net,Payment Issue,Medium,In Progress,Emma,2026-05-26 09:31:10,,
+701,Edward Marshall,bryan12@example.org,Shipping Issue,High,Closed,Bob,2026-05-24 18:42:58,2026-06-02 18:42:58,5.0
+702,Benjamin Torres,tjohnson@example.net,Order Delay,Critical,Closed,Bob,2026-06-16 16:24:21,2026-06-20 16:24:21,3.0
+703,Jeffery Kelley,mmatthews@example.net,Account Locked,Low,In Progress,Bob,2026-06-25 15:45:09,,
+704,Jose Kemp,briankim@example.net,Order Delay,Medium,Resolved,Charlie,2026-06-19 23:42:10,2026-06-28 23:42:10,4.0
+705,Jason Graves,aliciamason@example.org,Order Delay,High,Open,Emma,2026-06-13 02:32:39,,
+706,Lacey Anderson,kimberlybrown@example.com,Payment Issue,Low,Closed,Michael,2026-05-14 21:58:29,2026-05-23 21:58:29,3.0
+707,Kristen Ross,nicholas54@example.org,Shipping Issue,High,Closed,Sophia,2026-06-18 08:47:29,2026-06-24 08:47:29,5.0
+708,Chris Wright,kpham@example.org,Product Defect,Medium,Closed,Sophia,2026-05-31 22:49:14,2026-06-02 22:49:14,3.0
+709,Kathy Bolton,pjensen@example.org,Product Defect,Critical,In Progress,Sophia,2026-05-05 23:43:50,,
+710,Elizabeth Guzman,heather44@example.com,Subscription Cancellation,High,Resolved,Alice,2026-05-07 19:12:27,2026-05-14 19:12:27,3.0
+711,Michael Carney,alicia81@example.com,Product Defect,Critical,Resolved,James,2026-05-08 09:52:42,2026-05-16 09:52:42,3.0
+712,William Hawkins,vincentramirez@example.com,Order Delay,Critical,Open,Bob,2026-05-08 17:39:53,,
+713,David Barajas,bwilson@example.net,Order Delay,Medium,Closed,James,2026-06-08 10:51:57,2026-06-15 10:51:57,4.0
+714,Cynthia Reyes,lsmith@example.com,Order Delay,High,In Progress,David,2026-06-25 19:02:13,,
+715,Randall Coleman,sgarcia@example.com,Login Problem,Low,Open,David,2026-05-13 06:04:32,,
+716,Michael Vaughn,jamielester@example.org,Payment Issue,Critical,Closed,David,2026-04-10 20:03:05,2026-04-20 20:03:05,1.0
+717,Gregory Kennedy,jessicahernandez@example.net,Account Locked,High,Closed,Emma,2026-06-29 17:56:25,2026-07-03 17:56:25,2.0
+718,John Roberts,allison12@example.org,Account Locked,Low,Closed,Emma,2026-04-20 03:25:19,2026-04-30 03:25:19,4.0
+719,Lorraine Mills,patrick68@example.org,Login Problem,High,Closed,David,2026-05-10 17:09:01,2026-05-17 17:09:01,2.0
+720,Jose Brooks,vellison@example.com,Login Problem,Critical,Resolved,Bob,2026-06-20 21:00:16,2026-06-22 21:00:16,4.0
+721,Jeffery Ward,owensbrandon@example.com,Shipping Issue,Critical,Closed,James,2026-04-30 01:41:05,2026-05-02 01:41:05,5.0
+722,Melanie Cochran,daviserica@example.com,Product Defect,High,Resolved,Michael,2026-04-27 12:00:34,2026-05-07 12:00:34,4.0
+723,Susan Stephens,rachelturner@example.net,Shipping Issue,Low,In Progress,Alice,2026-07-03 16:06:55,,
+724,Stacie Anderson DVM,scott40@example.org,Payment Issue,High,In Progress,David,2026-04-18 23:46:03,,
+725,David Jones,carterellen@example.net,Subscription Cancellation,Medium,In Progress,Charlie,2026-04-21 16:03:05,,
+726,Olivia Freeman,johnsonalexander@example.org,Login Problem,Low,Resolved,Charlie,2026-06-12 18:11:16,2026-06-16 18:11:16,3.0
+727,Kimberly Romero,joan90@example.com,Refund Request,High,Closed,Sophia,2026-06-27 06:43:29,2026-07-01 06:43:29,3.0
+728,Christopher Bates,stephanie64@example.com,Product Defect,High,Resolved,Emma,2026-06-07 01:46:09,2026-06-09 01:46:09,4.0
+729,Katelyn Dawson,lyonsscott@example.org,Subscription Cancellation,High,Open,James,2026-06-10 16:58:07,,
+730,Kristina Olson,marc37@example.org,Shipping Issue,Low,In Progress,David,2026-05-06 02:14:04,,
+731,Lauren Murphy,tclark@example.net,Account Locked,High,In Progress,Michael,2026-05-27 22:14:55,,
+732,Kimberly Moreno,rjackson@example.org,Payment Issue,Low,Open,Bob,2026-07-01 02:58:48,,
+733,Kenneth Brewer,sarahguerrero@example.net,Login Problem,Medium,In Progress,Alice,2026-06-21 19:58:28,,
+734,Brian Lucas,dbarrett@example.net,Shipping Issue,High,Closed,Charlie,2026-06-25 19:44:07,2026-07-05 19:44:07,3.0
+735,Andre Walton,christophersmith@example.net,Order Delay,High,In Progress,Charlie,2026-06-08 01:40:08,,
+736,Nathan Garcia,butlerchristian@example.com,Account Locked,High,Resolved,James,2026-05-22 23:18:23,2026-05-31 23:18:23,4.0
+737,Angela Young,awalker@example.com,Payment Issue,Critical,Closed,Sophia,2026-06-01 08:22:40,2026-06-08 08:22:40,2.0
+738,Melissa Taylor,gardnersteven@example.org,Payment Issue,Critical,In Progress,Alice,2026-06-26 03:01:58,,
+739,Joshua Robertson,sabrina27@example.org,Shipping Issue,Critical,Resolved,Charlie,2026-06-13 08:43:24,2026-06-16 08:43:24,1.0
+740,Ryan Velasquez,olsonnancy@example.net,Refund Request,Medium,Closed,Bob,2026-06-14 06:51:16,2026-06-15 06:51:16,5.0
+741,Emily Williams,hmyers@example.org,Refund Request,Medium,Closed,Sophia,2026-05-24 02:58:14,2026-05-26 02:58:14,5.0
+742,Tonya Martinez,rachel01@example.org,Subscription Cancellation,Medium,In Progress,James,2026-05-05 15:26:07,,
+743,Donna Sutton,bjenkins@example.com,Account Locked,Critical,In Progress,Charlie,2026-06-11 08:42:32,,
+744,William Lee,walterskathryn@example.net,Refund Request,Critical,Open,Bob,2026-06-02 00:10:53,,
+745,Ryan Davidson,mcneilryan@example.com,Refund Request,Critical,Open,David,2026-05-07 03:56:15,,
+746,Tara Davis,thompsonmelissa@example.com,Payment Issue,High,Resolved,Michael,2026-05-19 00:32:27,2026-05-21 00:32:27,2.0
+747,Charles Williams,jennifermcgrath@example.com,Account Locked,Medium,In Progress,Michael,2026-06-15 06:19:38,,
+748,Kelsey Golden,johntaylor@example.org,Account Locked,Critical,In Progress,Alice,2026-06-11 02:15:11,,
+749,Dominique Fernandez,matthewrodriguez@example.com,Account Locked,Low,Closed,Michael,2026-06-20 11:36:44,2026-06-21 11:36:44,5.0
+750,Maria Fuller,johnsonamy@example.net,Product Defect,High,In Progress,Michael,2026-06-17 04:04:04,,
+751,Timothy Foster,ravenjohnson@example.org,Shipping Issue,Critical,Closed,David,2026-05-02 00:33:14,2026-05-11 00:33:14,2.0
+752,Briana Holmes MD,heidistevens@example.com,Product Defect,Critical,Resolved,Sophia,2026-06-01 05:45:06,2026-06-05 05:45:06,5.0
+753,Jamie Anderson,parsonsleroy@example.org,Login Problem,Low,In Progress,Michael,2026-05-07 01:29:40,,
+754,Daniel Morris,thompsonjames@example.com,Payment Issue,Medium,In Progress,Michael,2026-06-22 22:41:13,,
+755,Ronald Miller,kevin09@example.net,Login Problem,High,Open,Emma,2026-05-13 01:59:26,,
+756,Katherine Castro,codymartin@example.net,Payment Issue,Medium,Closed,David,2026-04-27 19:30:23,2026-04-28 19:30:23,1.0
+757,Glenn Stewart,forddonald@example.com,Subscription Cancellation,Low,Closed,Emma,2026-06-14 15:15:26,2026-06-22 15:15:26,4.0
+758,Gina Thomas,wilsonkelly@example.org,Shipping Issue,Low,Resolved,Emma,2026-06-21 01:02:25,2026-06-27 01:02:25,1.0
+759,Jean Christensen,alexisjohnson@example.org,Account Locked,Low,Resolved,Sophia,2026-04-15 21:41:57,2026-04-20 21:41:57,2.0
+760,Brittany Lambert,huntsarah@example.com,Order Delay,Medium,Closed,Charlie,2026-05-04 15:59:56,2026-05-07 15:59:56,3.0
+761,Jessica Jensen,jimenezwendy@example.com,Login Problem,Low,Open,Sophia,2026-05-22 04:57:35,,
+762,Cindy Kelly,brianschmitt@example.net,Refund Request,High,Closed,Alice,2026-05-02 06:47:33,2026-05-12 06:47:33,2.0
+763,John Larson,shirley08@example.com,Product Defect,High,Open,David,2026-06-11 17:58:37,,
+764,James Marshall,nataliecox@example.net,Product Defect,Low,Open,Charlie,2026-05-12 02:09:56,,
+765,Ann Rose,theresaturner@example.com,Payment Issue,High,Resolved,Michael,2026-06-05 19:36:42,2026-06-07 19:36:42,2.0
+766,Rhonda Camacho,rachaelrodriguez@example.com,Subscription Cancellation,Medium,Resolved,Bob,2026-04-09 23:28:55,2026-04-16 23:28:55,5.0
+767,George Garcia,khall@example.net,Shipping Issue,Critical,In Progress,Alice,2026-06-01 17:40:05,,
+768,Janet Turner,rritter@example.org,Account Locked,Medium,In Progress,Alice,2026-06-25 08:32:22,,
+769,Jennifer Garcia,kimberlyyoung@example.org,Shipping Issue,Low,Closed,Alice,2026-05-12 20:49:54,2026-05-21 20:49:54,1.0
+770,Gerald Johnson,hillmichelle@example.org,Product Defect,Medium,Open,Charlie,2026-06-08 03:47:41,,
+771,Samantha Buchanan,amandajenkins@example.org,Subscription Cancellation,Medium,Closed,Alice,2026-04-10 03:27:38,2026-04-20 03:27:38,2.0
+772,Phyllis Lee,benjamin49@example.com,Shipping Issue,Medium,In Progress,James,2026-05-05 05:23:56,,
+773,Andre Drake,pthornton@example.net,Login Problem,High,Resolved,Michael,2026-05-28 20:46:49,2026-06-06 20:46:49,3.0
+774,Andre Carter,tspence@example.com,Subscription Cancellation,High,In Progress,Sophia,2026-05-23 08:50:41,,
+775,Karen Allison,melinda16@example.com,Login Problem,Critical,Resolved,James,2026-05-10 10:52:32,2026-05-17 10:52:32,1.0
+776,Kyle Cortez,kbarker@example.org,Shipping Issue,High,Open,Alice,2026-06-23 21:48:07,,
+777,Thomas Kennedy,jeffrey29@example.org,Refund Request,High,Open,Alice,2026-05-13 03:50:53,,
+778,Joseph Dougherty,theodore22@example.net,Order Delay,Medium,Closed,Charlie,2026-06-22 13:36:39,2026-06-25 13:36:39,5.0
+779,Diana Holden,kelly57@example.org,Shipping Issue,Critical,Closed,Charlie,2026-04-09 03:50:55,2026-04-14 03:50:55,3.0
+780,Megan Norris,peter97@example.org,Payment Issue,Low,Closed,Sophia,2026-06-26 23:40:58,2026-07-03 23:40:58,2.0
+781,Donald Acosta,mwatson@example.org,Shipping Issue,Critical,Closed,James,2026-06-13 13:57:34,2026-06-17 13:57:34,2.0
+782,Alexander Marshall MD,peter32@example.com,Login Problem,High,Closed,Charlie,2026-04-16 22:36:59,2026-04-25 22:36:59,1.0
+783,Jennifer Thomas,scruz@example.org,Login Problem,Medium,Open,Sophia,2026-05-09 02:56:51,,
+784,Angela Smith,ivasquez@example.net,Login Problem,Medium,Open,Michael,2026-06-17 20:28:21,,
+785,Timothy Martin,fmacias@example.com,Order Delay,Medium,Resolved,Charlie,2026-04-14 23:02:23,2026-04-21 23:02:23,5.0
+786,Ryan Estrada,tinaberry@example.com,Shipping Issue,Medium,Closed,Emma,2026-04-09 06:27:00,2026-04-15 06:27:00,3.0
+787,Bryan Webb,paul41@example.net,Account Locked,Medium,Open,James,2026-06-24 09:40:29,,
+788,John Brown,michaelramirez@example.org,Order Delay,High,Closed,Sophia,2026-04-11 11:53:54,2026-04-19 11:53:54,1.0
+789,Michael Rhodes,jgeorge@example.net,Shipping Issue,High,Closed,James,2026-05-23 11:47:12,2026-05-31 11:47:12,1.0
+790,Thomas Rodriguez,conleysandra@example.org,Order Delay,Low,Open,Alice,2026-05-18 17:03:46,,
+791,Shawna Stephens,mary40@example.org,Subscription Cancellation,High,Resolved,Charlie,2026-04-23 12:20:13,2026-04-24 12:20:13,1.0
+792,Allison Dickerson,georgestewart@example.com,Refund Request,High,Closed,Charlie,2026-06-13 11:30:44,2026-06-15 11:30:44,1.0
+793,Taylor Morris,amann@example.com,Refund Request,Low,Open,Alice,2026-06-07 17:13:47,,
+794,William Harris,michelle43@example.net,Product Defect,Low,In Progress,Michael,2026-05-21 06:18:43,,
+795,Barbara Kent,slowe@example.net,Shipping Issue,Critical,Open,Charlie,2026-05-29 14:25:43,,
+796,James Day,michaelshepard@example.com,Shipping Issue,Low,Resolved,David,2026-05-18 12:59:38,2026-05-28 12:59:38,5.0
+797,Joseph Dawson,zbailey@example.org,Refund Request,Low,Open,James,2026-07-01 07:06:54,,
+798,Amanda Anderson,lisa23@example.com,Subscription Cancellation,High,Closed,Michael,2026-05-06 02:22:17,2026-05-09 02:22:17,2.0
+799,Melissa Hill,karihenderson@example.net,Refund Request,Critical,Open,Alice,2026-06-26 00:27:45,,
+800,Elizabeth Smith,fvaldez@example.org,Payment Issue,Medium,Open,Emma,2026-05-14 12:50:57,,
+801,Heather Young,brandy57@example.net,Login Problem,Low,Closed,Charlie,2026-06-04 23:07:31,2026-06-09 23:07:31,5.0
+802,Spencer Christensen,janet00@example.org,Product Defect,Medium,In Progress,James,2026-05-13 15:41:26,,
+803,Samuel Payne,whaas@example.net,Payment Issue,Medium,In Progress,Charlie,2026-06-13 23:23:53,,
+804,Mark Stevens,rachael01@example.com,Product Defect,Critical,Resolved,Charlie,2026-06-30 22:19:34,2026-07-08 22:19:34,5.0
+805,Maureen Cowan,elizabeth75@example.org,Subscription Cancellation,High,Open,Sophia,2026-04-19 11:14:22,,
+806,John Jones,lisa52@example.com,Subscription Cancellation,Medium,Resolved,Bob,2026-06-18 09:17:12,2026-06-26 09:17:12,2.0
+807,George Little,medwards@example.com,Subscription Cancellation,Medium,Closed,Charlie,2026-05-21 20:19:24,2026-05-30 20:19:24,2.0
+808,Jessica Hebert,debrasmith@example.com,Product Defect,High,In Progress,Michael,2026-05-20 04:59:26,,
+809,Heather West MD,sergio93@example.org,Refund Request,High,In Progress,Alice,2026-07-02 22:06:17,,
+810,Andrew Garza,amanda36@example.org,Refund Request,Low,In Progress,Alice,2026-04-21 10:32:45,,
+811,Kevin Jordan,hutchinsonryan@example.com,Payment Issue,Medium,Closed,Emma,2026-04-26 00:44:46,2026-05-05 00:44:46,2.0
+812,Kimberly Cochran,uhuynh@example.net,Order Delay,Medium,Closed,Alice,2026-05-12 13:19:12,2026-05-22 13:19:12,3.0
+813,Benjamin Warner,lanetracy@example.net,Product Defect,Medium,Resolved,Sophia,2026-05-08 01:21:09,2026-05-16 01:21:09,3.0
+814,Raymond Reeves,smithjohn@example.com,Product Defect,High,Resolved,Charlie,2026-05-17 17:53:30,2026-05-27 17:53:30,5.0
+815,Cynthia Atkins,tnielsen@example.org,Login Problem,Low,Resolved,Bob,2026-04-25 20:36:30,2026-05-03 20:36:30,4.0
+816,Anna White,mpotter@example.com,Account Locked,Medium,In Progress,Bob,2026-05-01 13:37:07,,
+817,Daniel Fitzgerald,joshuawarner@example.org,Login Problem,Low,Resolved,Emma,2026-05-16 07:27:47,2026-05-24 07:27:47,3.0
+818,John West,fheath@example.net,Refund Request,Medium,Open,Charlie,2026-05-16 05:47:28,,
+819,John Blair,jesusadams@example.org,Subscription Cancellation,Medium,Closed,David,2026-04-26 09:10:13,2026-05-04 09:10:13,2.0
+820,Jennifer Moran,elizabeth22@example.net,Login Problem,Medium,In Progress,David,2026-04-21 04:37:54,,
+821,Christine Gomez,davenportcynthia@example.com,Order Delay,Low,Resolved,Michael,2026-06-06 08:16:09,2026-06-14 08:16:09,3.0
+822,Dawn Young,schang@example.com,Refund Request,High,In Progress,David,2026-06-22 10:02:36,,
+823,Christopher Coleman DDS,connorbeasley@example.net,Subscription Cancellation,Medium,In Progress,Alice,2026-05-30 12:35:15,,
+824,Priscilla Holloway,mendozadouglas@example.net,Subscription Cancellation,Critical,Resolved,Emma,2026-04-30 07:27:32,2026-05-03 07:27:32,3.0
+825,Stacey Gay,amy42@example.org,Payment Issue,Critical,Open,Emma,2026-04-21 03:55:03,,
+826,Amy Brown,annhansen@example.org,Account Locked,High,Resolved,Charlie,2026-05-06 00:58:46,2026-05-16 00:58:46,1.0
+827,John Edwards,jonathancarr@example.org,Refund Request,Critical,In Progress,Emma,2026-06-29 00:45:48,,
+828,Emily Baker,carlos19@example.net,Shipping Issue,Low,In Progress,Bob,2026-04-09 01:29:34,,
+829,Chloe Miller,meganli@example.org,Login Problem,Low,Closed,Alice,2026-06-17 18:31:05,2026-06-22 18:31:05,2.0
+830,Dr. Donna Hall,eriksalazar@example.com,Login Problem,Critical,Open,David,2026-04-06 06:44:41,,
+831,Lisa Hughes,mirandasweeney@example.net,Refund Request,High,In Progress,Emma,2026-05-21 15:19:17,,
+832,Heather Avila,christopher07@example.net,Order Delay,Medium,Open,Sophia,2026-05-03 18:33:33,,
+833,Brian Garcia,zlawson@example.net,Shipping Issue,High,In Progress,James,2026-07-02 06:47:19,,
+834,Steven Barry,victor46@example.com,Subscription Cancellation,High,Closed,James,2026-06-04 21:42:02,2026-06-05 21:42:02,5.0
+835,Margaret Smith,clarson@example.net,Product Defect,Medium,Open,Bob,2026-05-05 03:36:01,,
+836,Cory Schultz,elizabethdavidson@example.org,Login Problem,Critical,In Progress,Charlie,2026-04-15 08:57:27,,
+837,Eric Serrano,ruthgarza@example.org,Login Problem,Medium,Open,Emma,2026-06-24 11:21:29,,
+838,Monica Mills,kennethwright@example.com,Payment Issue,High,Resolved,Emma,2026-05-20 14:41:25,2026-05-21 14:41:25,4.0
+839,Michelle Taylor,jessicaerickson@example.org,Order Delay,High,Closed,Alice,2026-04-21 22:59:32,2026-04-28 22:59:32,4.0
+840,Kristin Black,jessica95@example.com,Login Problem,High,Open,Bob,2026-06-07 01:05:46,,
+841,Anna Lopez,duncanjason@example.net,Payment Issue,High,Resolved,David,2026-05-14 12:27:52,2026-05-19 12:27:52,3.0
+842,Elizabeth Ramirez,ymoore@example.net,Order Delay,High,Resolved,Sophia,2026-04-09 10:43:15,2026-04-12 10:43:15,5.0
+843,Jennifer Alexander,kyle97@example.org,Account Locked,High,Resolved,Sophia,2026-06-04 15:55:35,2026-06-08 15:55:35,2.0
+844,Robert Adams,markhunt@example.com,Payment Issue,Critical,Resolved,Bob,2026-06-19 09:01:34,2026-06-21 09:01:34,4.0
+845,Emily Meyer,debracochran@example.com,Login Problem,Critical,In Progress,Bob,2026-06-27 12:54:18,,
+846,Yvonne Blake,williamhoward@example.net,Refund Request,Medium,Closed,Alice,2026-04-19 22:42:13,2026-04-25 22:42:13,1.0
+847,Lisa Mays,ojensen@example.net,Shipping Issue,High,Open,David,2026-04-12 06:04:30,,
+848,Andrea Anderson,jessica46@example.net,Order Delay,High,Open,Sophia,2026-05-21 23:44:23,,
+849,Richard Sanders,dillon85@example.com,Login Problem,Critical,Open,Alice,2026-05-20 21:02:19,,
+850,Leslie Gutierrez,hollydelgado@example.org,Account Locked,Medium,Resolved,David,2026-05-13 03:00:42,2026-05-15 03:00:42,5.0
+851,Kimberly Murphy,staceyprice@example.com,Payment Issue,Medium,In Progress,Charlie,2026-06-18 09:22:56,,
+852,Amanda Case,audrey81@example.net,Payment Issue,Critical,Open,James,2026-05-04 06:25:30,,
+853,Tyrone Burke,sarahtate@example.com,Subscription Cancellation,High,In Progress,Michael,2026-04-26 03:16:17,,
+854,Henry Ross,agutierrez@example.org,Refund Request,Critical,Open,James,2026-05-03 03:00:13,,
+855,Elizabeth Ramirez,chavezhenry@example.net,Payment Issue,Critical,Open,Sophia,2026-07-04 00:35:46,,
+856,Damon Hinton,olsontamara@example.net,Subscription Cancellation,Low,Resolved,David,2026-04-23 10:55:25,2026-05-02 10:55:25,2.0
+857,Kurt Gibbs,rpeterson@example.org,Product Defect,Medium,Open,Emma,2026-05-21 06:28:49,,
+858,Diana Silva,katrina84@example.org,Shipping Issue,Low,Open,Bob,2026-05-24 15:40:36,,
+859,Allison Wong,hannahlopez@example.net,Order Delay,High,Open,Sophia,2026-07-02 16:25:27,,
+860,Debra Welch,charlessanchez@example.org,Shipping Issue,Medium,In Progress,Bob,2026-05-04 03:45:25,,
+861,Peter Reilly,barbaracross@example.com,Shipping Issue,High,Open,James,2026-05-21 10:12:25,,
+862,Erin Snyder,reedjennifer@example.net,Payment Issue,High,Closed,Emma,2026-04-28 01:55:27,2026-04-29 01:55:27,3.0
+863,Barbara Vasquez,boothmaria@example.net,Account Locked,Low,Open,Sophia,2026-05-01 10:24:57,,
+864,George Douglas,scopeland@example.net,Refund Request,Critical,In Progress,James,2026-05-10 20:52:31,,
+865,Robert Steele,sburch@example.net,Login Problem,Critical,Closed,James,2026-07-03 02:28:27,2026-07-06 02:28:27,3.0
+866,Michelle Anderson,garycarson@example.net,Subscription Cancellation,Medium,Resolved,Alice,2026-05-22 00:11:48,2026-05-27 00:11:48,4.0
+867,Lisa Richardson,faulknercandace@example.net,Login Problem,High,Resolved,Michael,2026-05-25 19:35:39,2026-05-27 19:35:39,2.0
+868,Jeffery Smith,david22@example.com,Product Defect,High,In Progress,Sophia,2026-06-29 10:31:44,,
+869,Candace Miller,melissa36@example.net,Payment Issue,High,Closed,Alice,2026-04-09 06:50:50,2026-04-19 06:50:50,3.0
+870,Linda Wheeler,kathyperry@example.org,Login Problem,Low,Closed,Bob,2026-06-29 22:17:16,2026-07-09 22:17:16,2.0
+871,Ryan Davis,natashakeller@example.com,Order Delay,Medium,Resolved,Michael,2026-05-06 16:20:36,2026-05-11 16:20:36,5.0
+872,Colin Aguilar,heather94@example.net,Shipping Issue,High,In Progress,Michael,2026-06-30 21:57:45,,
+873,Michelle Harris,turnertodd@example.com,Subscription Cancellation,Critical,Resolved,Charlie,2026-05-09 12:16:26,2026-05-14 12:16:26,1.0
+874,Donald Wood,sandramiller@example.net,Product Defect,Medium,In Progress,Emma,2026-04-06 11:29:53,,
+875,Judy Sawyer,mccoyangelica@example.org,Shipping Issue,Critical,In Progress,Charlie,2026-05-10 09:11:09,,
+876,Jeremiah Arias,marykane@example.org,Order Delay,High,Open,Charlie,2026-05-27 19:44:26,,
+877,Raymond Carroll,brianpatel@example.net,Subscription Cancellation,Medium,In Progress,James,2026-05-03 01:13:04,,
+878,Amy Barry,jjohnson@example.org,Product Defect,Low,In Progress,Alice,2026-05-27 23:01:32,,
+879,Stacey Smith,joshuasmith@example.com,Product Defect,Medium,Open,Alice,2026-06-08 03:13:25,,
+880,Tracy Preston,perryandrew@example.org,Order Delay,High,In Progress,Bob,2026-06-13 22:43:52,,
+881,Charles Becker,mckenziebrandi@example.com,Refund Request,High,Closed,Alice,2026-06-28 08:43:57,2026-07-05 08:43:57,3.0
+882,Lori Coffey,mary36@example.org,Payment Issue,Medium,In Progress,Sophia,2026-06-07 05:34:24,,
+883,Christopher Mccall,tapiamelissa@example.net,Login Problem,Critical,Open,Emma,2026-07-03 01:14:56,,
+884,Larry Graham,iwashington@example.com,Subscription Cancellation,High,Closed,James,2026-06-13 19:54:33,2026-06-16 19:54:33,4.0
+885,Vanessa Stanton,mitchellroach@example.org,Refund Request,Critical,In Progress,Charlie,2026-06-11 01:26:16,,
+886,Sarah Miller,suzanneclayton@example.com,Product Defect,Medium,Resolved,Alice,2026-05-25 20:54:22,2026-05-28 20:54:22,3.0
+887,Mrs. Megan Tyler,zrobinson@example.com,Subscription Cancellation,Medium,Closed,James,2026-06-08 15:24:31,2026-06-12 15:24:31,3.0
+888,Michael Ortiz,casey63@example.org,Account Locked,Medium,In Progress,Alice,2026-06-23 01:09:09,,
+889,Rachel Blanchard,joelwheeler@example.com,Refund Request,High,Open,David,2026-04-22 18:17:59,,
+890,Mr. Nicholas Martin MD,gtorres@example.org,Shipping Issue,Critical,In Progress,Alice,2026-05-28 14:55:31,,
+891,Brian Harrison,michaeljames@example.net,Shipping Issue,Medium,Closed,Charlie,2026-04-25 01:45:20,2026-05-04 01:45:20,3.0
+892,Laura Rivera,garycooper@example.net,Payment Issue,Low,Resolved,Charlie,2026-06-26 05:01:06,2026-07-02 05:01:06,5.0
+893,Sheila Welch,christopher80@example.net,Subscription Cancellation,High,Open,Sophia,2026-06-05 02:45:15,,
+894,Brian Hernandez,stevensmith@example.com,Order Delay,Low,In Progress,Charlie,2026-06-15 03:02:04,,
+895,Tamara Lewis,crystal10@example.net,Product Defect,Medium,In Progress,Emma,2026-05-02 02:13:12,,
+896,Nicole Moss,james40@example.org,Login Problem,Medium,Open,Sophia,2026-06-18 03:07:06,,
+897,Amber Brown,bcabrera@example.org,Payment Issue,High,Resolved,Michael,2026-05-03 00:16:32,2026-05-06 00:16:32,5.0
+898,Eric Mack,martin65@example.com,Product Defect,High,Resolved,Michael,2026-06-03 08:19:50,2026-06-12 08:19:50,4.0
+899,Todd Rodgers,chase29@example.org,Refund Request,High,Closed,Charlie,2026-05-04 09:16:41,2026-05-13 09:16:41,2.0
+900,Brian Fisher,grimescharles@example.com,Account Locked,High,Resolved,Michael,2026-05-16 15:57:31,2026-05-21 15:57:31,4.0
+901,Nancy Torres,fbecker@example.com,Payment Issue,High,Closed,Michael,2026-04-25 18:12:24,2026-04-30 18:12:24,3.0
+902,James Moore,aprilcruz@example.net,Payment Issue,Critical,Closed,Bob,2026-05-10 16:31:32,2026-05-12 16:31:32,1.0
+903,Mr. Bruce Brooks,anasandoval@example.com,Subscription Cancellation,Low,Closed,Bob,2026-06-24 00:51:44,2026-06-30 00:51:44,1.0
+904,Ashley Sandoval,robert35@example.org,Subscription Cancellation,Medium,Open,Emma,2026-06-07 08:24:04,,
+905,Austin Rice,susanmunoz@example.org,Refund Request,Critical,Open,Sophia,2026-04-06 10:16:59,,
+906,Jennifer Gilbert,melissawilcox@example.org,Login Problem,High,In Progress,David,2026-06-03 08:46:30,,
+907,Eileen Schwartz,rodriguezemma@example.com,Login Problem,Low,Resolved,Michael,2026-06-09 00:04:22,2026-06-17 00:04:22,2.0
+908,Emily Crosby,serranocindy@example.com,Account Locked,High,Open,Bob,2026-05-02 12:56:16,,
+909,Jennifer Taylor,jessica63@example.net,Login Problem,Low,Closed,Alice,2026-07-01 22:09:06,2026-07-05 22:09:06,4.0
+910,Alicia Chapman,joannacampbell@example.net,Login Problem,Critical,In Progress,Michael,2026-07-02 11:26:46,,
+911,Donna Hodges,qmorgan@example.net,Product Defect,High,Resolved,Sophia,2026-06-19 08:11:52,2026-06-24 08:11:52,4.0
+912,John Hanson,qreyes@example.org,Payment Issue,Critical,Open,David,2026-04-27 22:03:42,,
+913,John Miller,johnsonjimmy@example.org,Order Delay,Low,Resolved,Bob,2026-04-30 04:10:31,2026-05-03 04:10:31,3.0
+914,Christine Morales,schroederdaniel@example.com,Shipping Issue,Low,Open,Alice,2026-06-22 04:00:58,,
+915,Patrick Lane,belltyler@example.org,Product Defect,Critical,Closed,David,2026-05-19 08:24:25,2026-05-25 08:24:25,1.0
+916,William Campbell,kfoster@example.net,Login Problem,Medium,Resolved,Bob,2026-06-23 05:27:49,2026-06-27 05:27:49,1.0
+917,Justin Green,jgibbs@example.net,Login Problem,High,In Progress,Sophia,2026-06-14 11:33:10,,
+918,Luke Lewis,zhangashley@example.com,Order Delay,Medium,In Progress,Charlie,2026-05-01 07:15:38,,
+919,Jeremy Martin,rodriguezgina@example.net,Shipping Issue,Low,Open,David,2026-06-23 05:54:24,,
+920,Judy Williams,utran@example.net,Login Problem,High,Open,Charlie,2026-06-30 08:10:23,,
+921,Kevin Calhoun,cpruitt@example.com,Login Problem,Low,Closed,Sophia,2026-05-20 09:07:21,2026-05-27 09:07:21,1.0
+922,Douglas Miller,april41@example.net,Shipping Issue,High,Open,James,2026-04-20 07:58:03,,
+923,Brent Henderson,jacksonphyllis@example.com,Shipping Issue,High,Open,Michael,2026-06-24 07:05:33,,
+924,Christopher Perkins,james65@example.net,Account Locked,Critical,Closed,James,2026-05-18 18:36:52,2026-05-22 18:36:52,4.0
+925,Joshua Wilson,ruizmarissa@example.org,Subscription Cancellation,Medium,Closed,Michael,2026-04-14 16:02:07,2026-04-15 16:02:07,1.0
+926,Anthony Jones,suarezrobert@example.net,Payment Issue,Critical,Open,David,2026-05-12 10:53:20,,
+927,Deborah Kennedy,whiteshelley@example.org,Login Problem,Medium,Resolved,James,2026-07-01 17:54:02,2026-07-04 17:54:02,1.0
+928,Chad Hernandez,amberspence@example.net,Order Delay,Low,Resolved,James,2026-06-09 02:46:20,2026-06-15 02:46:20,1.0
+929,Alexa Downs,franklinhenry@example.net,Payment Issue,Medium,Open,Emma,2026-06-26 13:47:52,,
+930,Phillip Martinez,kathykaiser@example.com,Refund Request,High,Closed,Emma,2026-04-29 15:01:26,2026-05-05 15:01:26,3.0
+931,Dawn Lopez,brian14@example.net,Login Problem,High,Resolved,Michael,2026-05-10 02:56:59,2026-05-12 02:56:59,5.0
+932,Andrew Wallace,zking@example.com,Account Locked,Low,Resolved,James,2026-06-06 09:25:51,2026-06-15 09:25:51,1.0
+933,Eddie Pace,william52@example.net,Order Delay,Medium,In Progress,Emma,2026-06-17 06:26:09,,
+934,David Davis,huangbrooke@example.org,Login Problem,High,Resolved,Bob,2026-04-20 11:24:15,2026-04-26 11:24:15,2.0
+935,Pam Mullen,dixonchad@example.net,Order Delay,Critical,Resolved,Michael,2026-04-25 19:29:41,2026-05-05 19:29:41,4.0
+936,Luis Alvarado,audrey14@example.net,Order Delay,Low,In Progress,James,2026-05-19 19:25:14,,
+937,Kevin Ramirez,davidluna@example.net,Shipping Issue,Critical,In Progress,Bob,2026-06-08 12:22:55,,
+938,Donna Flores,jwilcox@example.org,Order Delay,Critical,Open,James,2026-06-01 06:27:02,,
+939,John Nelson,joanna25@example.net,Subscription Cancellation,Low,In Progress,James,2026-06-12 12:26:30,,
+940,Katherine Sanford,nicholas58@example.com,Refund Request,Critical,In Progress,Emma,2026-05-02 15:14:23,,
+941,Heidi Miller,ryan91@example.net,Payment Issue,Critical,Closed,Alice,2026-06-18 03:14:57,2026-06-20 03:14:57,2.0
+942,Jason Cervantes,paulfitzpatrick@example.com,Payment Issue,High,Resolved,Emma,2026-05-28 11:53:09,2026-06-05 11:53:09,4.0
+943,Paul Wong,lisa99@example.net,Refund Request,Low,Open,Sophia,2026-06-11 02:55:51,,
+944,Nicholas Rollins,robert10@example.com,Account Locked,Critical,In Progress,Charlie,2026-04-23 06:24:25,,
+945,Adam Barnett,matthew61@example.org,Order Delay,High,In Progress,Alice,2026-04-21 19:54:13,,
+946,Jennifer Sanders,jeffreylandry@example.net,Payment Issue,Critical,Open,Bob,2026-05-31 10:31:00,,
+947,Rachel Villanueva,catherinepollard@example.net,Payment Issue,Critical,Resolved,Bob,2026-06-23 19:43:31,2026-06-29 19:43:31,3.0
+948,Nathaniel Jensen,foxjustin@example.org,Subscription Cancellation,Critical,Open,Emma,2026-06-29 16:57:57,,
+949,Larry Hancock,carolyn84@example.org,Shipping Issue,Medium,Open,Alice,2026-06-29 15:12:24,,
+950,Angela Stone,kathystevenson@example.org,Shipping Issue,Critical,In Progress,Michael,2026-04-14 18:09:59,,
+951,Shawn Collins MD,nnewton@example.com,Refund Request,High,In Progress,Emma,2026-07-03 01:49:06,,
+952,Beverly Gilbert,amanda85@example.org,Account Locked,High,Resolved,Emma,2026-04-13 19:31:40,2026-04-17 19:31:40,2.0
+953,Anna Taylor,caldwellmichael@example.org,Product Defect,Low,Closed,Emma,2026-05-04 10:14:34,2026-05-06 10:14:34,2.0
+954,Elizabeth Moore,carolynrichards@example.net,Login Problem,Medium,Closed,Emma,2026-05-18 02:42:35,2026-05-22 02:42:35,3.0
+955,Cynthia Martinez,woodwardwayne@example.org,Product Defect,Critical,Resolved,Bob,2026-06-28 00:28:47,2026-06-29 00:28:47,1.0
+956,Sean Kim,davidhale@example.net,Account Locked,Medium,Resolved,Michael,2026-04-27 14:32:53,2026-05-03 14:32:53,2.0
+957,Deborah Smith,amber33@example.net,Subscription Cancellation,Critical,Open,Charlie,2026-05-22 20:51:57,,
+958,James Roberts,caseyhunt@example.net,Shipping Issue,Low,Resolved,Emma,2026-05-02 22:15:15,2026-05-05 22:15:15,3.0
+959,Shane Hoffman,adammyers@example.com,Product Defect,High,Closed,Bob,2026-05-02 07:56:07,2026-05-03 07:56:07,4.0
+960,Clifford Bailey,tarabrown@example.net,Payment Issue,Medium,Resolved,Sophia,2026-05-19 06:46:20,2026-05-22 06:46:20,5.0
+961,Elizabeth Baird,kdiaz@example.com,Refund Request,Medium,Closed,David,2026-04-25 01:05:21,2026-05-05 01:05:21,2.0
+962,Brian Ryan,karen42@example.net,Product Defect,Low,Open,Emma,2026-04-21 00:47:55,,
+963,Christine Lam,vnguyen@example.net,Payment Issue,Low,Resolved,James,2026-05-26 02:28:06,2026-06-03 02:28:06,1.0
+964,Tony Fletcher,vasquezlinda@example.net,Login Problem,Critical,Open,Bob,2026-04-30 04:59:25,,
+965,Henry Johnson,brandonallen@example.net,Account Locked,High,In Progress,Bob,2026-06-17 05:27:59,,
+966,Rodney Simpson,garrettrichard@example.com,Order Delay,High,Closed,Bob,2026-06-01 18:05:18,2026-06-03 18:05:18,5.0
+967,Mr. Arthur Foster,rachel03@example.net,Refund Request,Critical,Open,David,2026-05-26 17:30:14,,
+968,Joseph Waller,amandawhite@example.net,Subscription Cancellation,High,Closed,Emma,2026-05-02 13:06:24,2026-05-09 13:06:24,5.0
+969,Levi Smith,randallmichael@example.org,Account Locked,Low,Open,Bob,2026-04-20 22:06:36,,
+970,Douglas Webb,hubbardbeth@example.com,Account Locked,Medium,Closed,Emma,2026-06-17 17:40:08,2026-06-25 17:40:08,1.0
+971,Colleen Lopez,sarah03@example.org,Payment Issue,High,Closed,Bob,2026-07-03 14:32:26,2026-07-12 14:32:26,1.0
+972,Jon Jones,heidioneill@example.net,Shipping Issue,Low,Open,David,2026-04-17 17:19:15,,
+973,Karen May,loriparker@example.net,Payment Issue,High,Resolved,David,2026-04-11 22:49:07,2026-04-21 22:49:07,5.0
+974,Ashley Parks,angelasloan@example.org,Payment Issue,High,Closed,Sophia,2026-05-17 21:29:17,2026-05-20 21:29:17,1.0
+975,Ms. Kimberly Harrison MD,carlsoncolleen@example.org,Subscription Cancellation,Critical,In Progress,Charlie,2026-06-08 18:08:49,,
+976,Cheryl Paul,umarshall@example.com,Payment Issue,Critical,Open,Bob,2026-06-09 05:07:00,,
+977,Heather Gould,lorifoster@example.net,Shipping Issue,High,In Progress,David,2026-05-03 21:27:56,,
+978,Melanie White,burnssean@example.com,Account Locked,Low,Closed,Sophia,2026-04-07 20:59:42,2026-04-17 20:59:42,2.0
+979,Lori Brown,richardsonchad@example.com,Account Locked,Low,Closed,David,2026-06-17 09:07:32,2026-06-18 09:07:32,3.0
+980,Elizabeth Moore,casebrian@example.net,Refund Request,Medium,In Progress,Charlie,2026-04-27 08:51:53,,
+981,Kevin Gallegos,nicholas93@example.org,Subscription Cancellation,Medium,In Progress,Bob,2026-05-18 08:26:39,,
+982,Ricardo Strong,jennifer03@example.com,Payment Issue,Medium,Open,Bob,2026-06-28 02:32:59,,
+983,Peter Williams MD,hebertmelissa@example.net,Payment Issue,High,Closed,Emma,2026-06-04 17:49:50,2026-06-13 17:49:50,1.0
+984,Juan Butler,gsmith@example.net,Account Locked,Critical,Resolved,Emma,2026-06-28 02:06:26,2026-07-03 02:06:26,3.0
+985,Christina Martin,chad56@example.net,Refund Request,High,Resolved,David,2026-04-09 05:07:22,2026-04-12 05:07:22,2.0
+986,Adrian Rodriguez,russotony@example.org,Login Problem,High,In Progress,David,2026-06-26 12:09:34,,
+987,Paul Sutton,padillarichard@example.com,Subscription Cancellation,High,Resolved,James,2026-05-28 23:34:57,2026-06-03 23:34:57,4.0
+988,Debbie Hoffman,amandathompson@example.net,Subscription Cancellation,Medium,Open,Emma,2026-04-07 19:06:19,,
+989,Angela Tucker,oscar11@example.org,Account Locked,Low,Open,David,2026-06-20 18:34:36,,
+990,Susan Miller,samanthabowen@example.net,Login Problem,Medium,Resolved,Bob,2026-06-15 08:18:57,2026-06-17 08:18:57,4.0
+991,Derrick Williams,hubbardwilliam@example.org,Shipping Issue,Low,Closed,James,2026-04-15 05:21:10,2026-04-17 05:21:10,5.0
+992,Melanie Hughes,bradley01@example.net,Account Locked,Critical,Closed,Alice,2026-06-26 22:22:36,2026-06-27 22:22:36,5.0
+993,Yvonne Osborne,kayla63@example.org,Login Problem,Medium,In Progress,Michael,2026-05-19 14:01:10,,
+994,Julie Brown,jenkinspaul@example.net,Order Delay,High,In Progress,Bob,2026-06-27 18:12:01,,
+995,Tammy Hebert,richard59@example.com,Login Problem,Critical,Open,Alice,2026-04-17 17:09:22,,
+996,Katherine Campos,ambersmith@example.com,Product Defect,Critical,Closed,Alice,2026-04-14 22:01:07,2026-04-24 22:01:07,4.0
+997,Lindsay Garza,gjones@example.com,Subscription Cancellation,High,Closed,David,2026-05-03 10:15:42,2026-05-06 10:15:42,3.0
+998,Megan Sanders,ygardner@example.com,Login Problem,Medium,Open,Charlie,2026-06-05 07:54:35,,
+999,Angelica Smith,kingmarissa@example.net,Subscription Cancellation,Critical,In Progress,James,2026-05-16 20:52:39,,
+1000,Brandi Sanders,kevin07@example.org,Product Defect,High,Open,Charlie,2026-05-14 06:36:37,,
