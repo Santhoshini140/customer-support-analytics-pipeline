@@ -1,7 +1,7 @@
-from scripts.processing import DataQualityEngine
+from scripts.config import RAW_DATA_PATH
 
 engine = DataQualityEngine(
-    "data/raw/customer_support_tickets.csv"
+    RAW_DATA_PATH
 )
 
 engine.process()

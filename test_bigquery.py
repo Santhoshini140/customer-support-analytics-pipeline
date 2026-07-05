@@ -7,11 +7,6 @@ engine = DataQualityEngine(
 
 engine.process()
 
-loader = BigQueryLoader(
-    project_id="abiding-robot-501314-d0",
-    dataset_name="customer_support",
-    table_name="customer_support_clean",
-    credentials_path="/opt/airflow/project/credentials/abiding-robot-501314-d0-1b28baf3241b.json"
-)
+loader = BigQueryLoader()
 
 loader.run(engine.clean_df)

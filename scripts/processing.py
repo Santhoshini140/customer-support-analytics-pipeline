@@ -1,7 +1,13 @@
 import os
 from datetime import datetime
-
+from scripts.logger import logger
 import pandas as pd
+from scripts.config import (
+    RAW_DATA_PATH,
+    PROCESSED_FOLDER,
+    REJECTED_FOLDER,
+    REPORT_FOLDER
+)
 
 from scripts.validation import (
     check_required_columns,
@@ -41,9 +47,9 @@ class DataQualityEngine:
         self.timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
         self.output_dirs = {
-            "processed": "data/processed",
-            "rejected": "data/rejected",
-            "reports": "data/reports"
+            "processed": PROCESSED_FOLDER,
+            "rejected": REJECTED_FOLDER,
+            "reports": REPORT_FOLDER
         }
 
         self.create_output_directories()
@@ -62,11 +68,11 @@ class DataQualityEngine:
         Reads the raw CSV.
         """
 
-        print("\nLoading dataset...")
+        logger.info("Loading dataset...")
 
         self.df = pd.read_csv(self.input_file)
 
-        print(f"Rows Loaded : {len(self.df)}")
+        logger.info(f"Rows Loaded : {len(self.df)}")
 
     def validate(self):
 
@@ -74,7 +80,7 @@ class DataQualityEngine:
         Runs every validation.
         """
 
-        print("\nRunning validations...")
+        logger.info("\nRunning validations...")
 
         results = []
 
@@ -124,7 +130,7 @@ class DataQualityEngine:
         and all reasons they failed validation.
         """
 
-        print("\nBuilding rejection map...")
+        logger.info("\nBuilding rejection map...")
 
         self.rejection_map = {}
 
@@ -145,7 +151,7 @@ class DataQualityEngine:
 
     def build_warning_map(self):
 
-        print("\nBuilding warning map...")
+        logger.info("\nBuilding warning map...")
 
         self.warning_map = {}
 
@@ -166,7 +172,7 @@ class DataQualityEngine:
         Separates clean and rejected records.
         """
 
-        print("\nSeparating valid and rejected records...")
+        logger.info("\nSeparating valid and rejected records...")
 
         rejected_ticket_ids = set(self.rejection_map.keys())
 
@@ -193,7 +199,7 @@ class DataQualityEngine:
         Cleans only valid records.
         """
 
-        print("\nRunning structural cleaning...")
+        logger.info("\nRunning structural cleaning...")
 
         self.clean_df = structural_cleaning(self.clean_df)
 
@@ -202,7 +208,7 @@ class DataQualityEngine:
         Adds warning information to the clean dataset.
         """
 
-        print("\nAdding data quality warning column...")
+        logger.info("\nAdding data quality warning column...")
 
         self.clean_df["data_quality_warning"] = (
             self.clean_df["ticket_id"]
@@ -220,7 +226,7 @@ class DataQualityEngine:
         Creates validation summary report.
         """
 
-        print("\nGenerating validation report...")
+        logger.info("\nGenerating validation report...")
 
         report = pd.DataFrame(self.validation_results)
 
@@ -235,7 +241,10 @@ class DataQualityEngine:
         ).round(2)
 
         report.to_csv(
-            f"data/reports/validation_report_{self.timestamp}.csv",
+            os.path.join(
+                REPORT_FOLDER,
+                f"validation_report_{self.timestamp}.csv"
+            ),
             index=False
         )
 
@@ -244,15 +253,21 @@ class DataQualityEngine:
         Saves clean and rejected datasets.
         """
 
-        print("\nSaving outputs...")
+        logger.info("\nSaving outputs...")
 
         self.clean_df.to_csv(
-            f"data/processed/customer_support_clean_{self.timestamp}.csv",
+            os.path.join(
+                PROCESSED_FOLDER,
+                f"customer_support_clean_{self.timestamp}.csv"
+            ),
             index=False
         )
 
         self.rejected_df.to_csv(
-            f"data/rejected/rejected_records_{self.timestamp}.csv",
+            os.path.join(
+                REJECTED_FOLDER,
+                f"rejected_records_{self.timestamp}.csv"
+            ),
             index=False
         )
 
@@ -283,9 +298,9 @@ class DataQualityEngine:
 
         self.save_outputs()
 
-        print("\n===================================")
-        print("Data Quality Engine Completed")
-        print("===================================")
-        print(f"Total Records     : {len(self.df)}")
-        print(f"Valid Records     : {len(self.clean_df)}")
-        print(f"Rejected Records  : {len(self.rejected_df)}")
+        logger.info("===================================")
+        logger.info("Data Quality Engine Completed")
+        logger.info("===================================")
+        logger.info(f"Total Records : {len(self.df)}")
+        logger.info(f"Valid Records : {len(self.clean_df)}")
+        logger.info(f"Rejected Records : {len(self.rejected_df)}")

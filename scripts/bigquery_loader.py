@@ -1,22 +1,21 @@
 from google.cloud import bigquery
 from google.oauth2 import service_account
 import pandas as pd
-
+from scripts.config import (
+    PROJECT_ID,
+    DATASET_NAME,
+    TABLE_NAME,
+    CREDENTIALS_PATH
+)
 
 class BigQueryLoader:
 
-    def __init__(
-        self,
-        project_id,
-        dataset_name,
-        table_name,
-        credentials_path
-    ):
+    def __init__(self):
 
-        self.project_id = project_id
-        self.dataset_name = dataset_name
-        self.table_name = table_name
-        self.credentials_path = credentials_path
+        self.project_id = PROJECT_ID
+        self.dataset_name = DATASET_NAME
+        self.table_name = TABLE_NAME
+        self.credentials_path = CREDENTIALS_PATH
 
         self.client = None
 
